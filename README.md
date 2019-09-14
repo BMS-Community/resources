@@ -54,11 +54,21 @@ LR2 is the standard BMS player, it's over 10 years old and can be buggy. It has 
 
 1920x1280, program that patches the SD version.
 
-### [beatoraja](https://github.com/exch-bms2/beatoraja/releases)
+### beatoraja
+
 beatoraja is an BMS player based on Java. It is cross-platform, and supports BMSON. There are multiple internet rankings for beatoraja.
 
-### [Bemuse](https://github.com/exch-bms2/beatoraja/releases)
+#### [Releases](https://github.com/exch-bms2/beatoraja/releases)
+
+All versions available on github.
+
+### Bemuse
+
 Bemuse is a BMS player which runs completely in the browser.
+
+#### [Website](https://bemuse.ninja/)
+
+Play in your web browser.
 
 ## [Starter Packs](#starter-packs)
 
