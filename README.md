@@ -20,25 +20,45 @@ Feel free to open issues and pull requests.
 
 ## [Communities](#communities)
 
-[BMS Community](https://discord.gg/Q4vKF8T)
-<br>
+### [BMS Community](https://discord.gg/Q4vKF8T)
+
 A large international discord server.
 
-[BMS Server JAPAN](https://discord.gg/DvxHfEa)
-<br>
+### [BMS Server JAPAN](https://discord.gg/DvxHfEa)
+
 A large Japanese discord server.
 
-[K-BMS](https://k-bms.com/)
-<br>
+### [K-BMS](https://k-bms.com/)
+
 A Korean BMS community.
 
-[r/lunaticrave2](https://www.reddit.com/r/lunaticrave2/)
-<br>
+### [r/lunaticrave2](https://www.reddit.com/r/lunaticrave2/)
+
 The Lunatic Rave 2 subreddit.
 
 ## [Clients](#clients)
 
+### Lunatic Rave 2
 
+LR2 is the standard BMS player, it's over 10 years old and can be buggy. It has by far the largest playerbase. Many skins and tools have been made for LR2.
+
+#### [SD Client](https://drive.google.com/file/d/1HODmutLTJLyjnZ9AuDzC8PkGUnbL6dxD/view)
+
+640x480, default.
+
+#### [HD Client](https://drive.google.com/file/d/1HODmutLTJLyjnZ9AuDzC8PkGUnbL6dxD/view)
+
+1280x720, paste over the SD version and rename.
+
+#### [FHD Patch](https://drive.google.com/file/d/12wDpQu-z65e1hiXYy4tt8Ep76_QscXPI/view)
+
+1920x1280, program that patches the SD version.
+
+### [beatoraja](https://github.com/exch-bms2/beatoraja/releases)
+beatoraja is an BMS player based on Java. It is cross-platform, and supports BMSON. There are multiple internet rankings for beatoraja.
+
+### [Bemuse](https://github.com/exch-bms2/beatoraja/releases)
+Bemuse is a BMS player which runs completely in the browser.
 
 ## [Starter Packs](#starter-packs)
 
