@@ -44,7 +44,7 @@ LR2 is the standard BMS player, it's over 10 years old and can be buggy. It has 
 
 * SD Client. 640x480, default.
 [*Download*](https://drive.google.com/file/d/1HODmutLTJLyjnZ9AuDzC8PkGUnbL6dxD/view).
-* HD Client. 1280x720, paste over the SD version and rename config.xml to config.xmh.
+* HD Client. 1280x720, replace SD version, rename config.xml to config.xmh.
 [*Download*](https://drive.google.com/file/d/1HODmutLTJLyjnZ9AuDzC8PkGUnbL6dxD/view).
 * FHD Patch. 1920x1280, program that patches the SD version.
 [*Download*](https://drive.google.com/file/d/12wDpQu-z65e1hiXYy4tt8Ep76_QscXPI/view).
