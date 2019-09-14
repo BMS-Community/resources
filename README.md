@@ -20,21 +20,21 @@ Feel free to open issues and pull requests.
 
 ## [Communities](#communities)
 
-### [BMS Community](https://discord.gg/Q4vKF8T)
+### BMS Community
 
-A large international discord server.
+A large international discord server. [Click here to join](https://discord.gg/Q4vKF8T).
 
-### [BMS Server JAPAN](https://discord.gg/DvxHfEa)
+### BMS Server JAPAN
 
-A large Japanese discord server.
+A large Japanese discord server. [Click here to join](https://discord.gg/DvxHfEa).
 
-### [K-BMS](https://k-bms.com/)
+### K-BMS
 
-A Korean BMS community.
+A Korean BMS community. [Click here to join](https://k-bms.com/).
 
-### [r/lunaticrave2](https://www.reddit.com/r/lunaticrave2/)
+### r/lunaticrave2
 
-The Lunatic Rave 2 subreddit.
+The Lunatic Rave 2 subreddit. [Click here to join](https://www.reddit.com/r/lunaticrave2/).
 
 ## [Clients](#clients)
 
@@ -42,15 +42,15 @@ The Lunatic Rave 2 subreddit.
 
 LR2 is the standard BMS player, it's over 10 years old and can be buggy. It has by far the largest playerbase. Many skins and tools have been made for LR2.
 
-#### [SD Client](https://drive.google.com/file/d/1HODmutLTJLyjnZ9AuDzC8PkGUnbL6dxD/view)
+#### [Download SD Client](https://drive.google.com/file/d/1HODmutLTJLyjnZ9AuDzC8PkGUnbL6dxD/view)
 
 640x480, default.
 
-#### [HD Client](https://drive.google.com/file/d/1HODmutLTJLyjnZ9AuDzC8PkGUnbL6dxD/view)
+#### [Download HD Client](https://drive.google.com/file/d/1HODmutLTJLyjnZ9AuDzC8PkGUnbL6dxD/view)
 
 1280x720, paste over the SD version and rename.
 
-#### [FHD Patch](https://drive.google.com/file/d/12wDpQu-z65e1hiXYy4tt8Ep76_QscXPI/view)
+#### [Download FHD Patch](https://drive.google.com/file/d/12wDpQu-z65e1hiXYy4tt8Ep76_QscXPI/view)
 
 1920x1280, program that patches the SD version.
 
@@ -58,7 +58,7 @@ LR2 is the standard BMS player, it's over 10 years old and can be buggy. It has 
 
 beatoraja is an BMS player based on Java. It is cross-platform, and supports BMSON. There are multiple internet rankings for beatoraja.
 
-#### [Releases](https://github.com/exch-bms2/beatoraja/releases)
+#### [View releases](https://github.com/exch-bms2/beatoraja/releases)
 
 All versions available on github.
 
@@ -66,7 +66,7 @@ All versions available on github.
 
 Bemuse is a BMS player which runs completely in the browser.
 
-#### [Website](https://bemuse.ninja/)
+#### [Visit website](https://bemuse.ninja/)
 
 Play in your web browser.
 
