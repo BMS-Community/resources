@@ -1,2 +1,4 @@
-# Resources
-A site with BMS related resources
+# BMS Community Resources
+A site with BMS related links
+
+
