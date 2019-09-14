@@ -4,6 +4,8 @@ A site with BMS related links.
 <br>
 Feel free to open issues and pull requests.
 
+---
+
 ## [Table of Contents](#table-of-contents)
 
 * [Communities](#communities)
@@ -17,6 +19,8 @@ Feel free to open issues and pull requests.
 * [BMS Creation Tutorials and Tools](#bms-creation)
 * [Other Songs + Sabuns](#sabuns)
 * [Miscellaneous](#miscellaneous)
+
+---
 
 ## [Communities](#communities)
 
@@ -35,6 +39,8 @@ A Korean BMS community. [Click here to join](https://k-bms.com/).
 ### r/lunaticrave2
 
 The Lunatic Rave 2 subreddit. [Click here to join](https://www.reddit.com/r/lunaticrave2/).
+
+---
 
 ## [Clients](#clients)
 
@@ -70,34 +76,52 @@ Bemuse is a BMS player which runs completely in the browser.
 
 Play in your web browser.
 
+---
+
 ## [Starter Packs](#starter-packs)
 
+Content goes here.
 
+---
 
 ## [Dans](#dans)
 
+Content goes here.
 
+---
 
 ## [Skins](#skins)
 
+Content goes here.
 
+---
 
 ## [Tables](#tables)
 
+Content goes here.
 
+---
 
 ## [Event Packs](#event-packs)
 
+Content goes here.
 
+---
 
 ## [BMS Creation Tutorials and Tools](#bms-creation)
 
+Content goes here.
 
+---
 
 ## [Other Songs + Sabuns](#sabuns)
 
+Content goes here.
 
+---
 
 ## [Miscellaneous](#miscellaneous)
 
+Content goes here.
 
+---
