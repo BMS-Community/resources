@@ -30,11 +30,11 @@ A large Japanese discord server. [*Join*](https://discord.gg/DvxHfEa).
 
 ### K-BMS
 
-A Korean BMS community. [*Join*](https://k-bms.com/).
+A Korean BMS community. [*Visit website*](https://k-bms.com/).
 
 ### r/lunaticrave2
 
-The Lunatic Rave 2 subreddit. [*Join*](https://www.reddit.com/r/lunaticrave2/).
+The Lunatic Rave 2 subreddit. [*Visit website*](https://www.reddit.com/r/lunaticrave2/).
 
 ## [Clients](#clients)
 
