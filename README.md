@@ -1,13 +1,14 @@
-# [BMS Community Resources](#bms-community-resources)
+# BMS Community Resources
 
 A site with BMS related links. <br>
 Feel free to open issues and pull requests.
 
 --------------------------------------------------
 
-## [Table of Contents](#table-of-contents)
+## Table of Contents
 
 * [Communities](#communities)
+* [Player Guides](#player-guides)
 * [Clients](#clients)
 * [Starter Packs](#starter-packs)
 * [Player Utilities](#player-utilities)
@@ -21,7 +22,7 @@ Feel free to open issues and pull requests.
 
 --------------------------------------------------
 
-## [Communities](#communities)
+## Communities
 
 * [BMS Community](https://discord.gg/Q4vKF8T)
 * [BMS Server JAPAN](https://discord.gg/DvxHfEa)
@@ -30,15 +31,18 @@ Feel free to open issues and pull requests.
 
 --------------------------------------------------
 
-## [Guides](#guides)
+## Player Guides
 
 * [Lunatic Rave 2 Guide](http://news.keysounds.net/lr2guide)
+* [English beatoraja Guide](https://github.com/wcko87/beatoraja-english-guide/wiki)
+* [Japanese beatoraja Guide](https://lntakeshi.hateblo.jp/entry/2017/05/19/002127)
 * [IIDX How-To: Playstyle](https://www.youtube.com/watch?v=yRnYOdsgdIY)
 * [IIDX Tutorial: Lets talk about key setups by DARQs](https://www.youtube.com/watch?v=SyTYiEhMYG4)
+* [PMS Guide](http://vsrg.pbworks.com/w/page/121957257/PMS%20(9k)%20Guide)
 
 --------------------------------------------------
 
-## [Clients](#clients)
+## Clients
 
 ### [Lunatic Rave 2 SD](https://drive.google.com/file/d/1HODmutLTJLyjnZ9AuDzC8PkGUnbL6dxD/view)
 LR2 is the standard BMS player, it's over 10 years old and can be buggy. It has by far the largest playerbase. Many skins and tools have been made for LR2. This is the default variant, meaning 640x480.
@@ -60,7 +64,7 @@ QMS is a new BMS player that's meant to be identical to LR2 in gameplay but with
 
 --------------------------------------------------
 
-## [Starter Packs](#starter-packs)
+## Starter Packs
 
 * [GENOSIDE BMS StarterPackage 2018](http://nekokan.dyndns.info/~lobsak/genocide/grade.html)
 * [GENOSIDE BMS StarterPackage](http://nekokan.dyndns.info/~lobsak/genoside/)
@@ -75,37 +79,43 @@ QMS is a new BMS player that's meant to be identical to LR2 in gameplay but with
 
 --------------------------------------------------
 
-## [Dans](#dans)
+## Player Utilities
 
 Content goes here.
 
 --------------------------------------------------
 
-## [Skins](#skins)
+## Dans
 
 Content goes here.
 
 --------------------------------------------------
 
-## [Tables](#tables)
+## Skins
 
 Content goes here.
 
 --------------------------------------------------
 
-## [Event Packs](#event-packs)
+## Tables
 
 Content goes here.
 
 --------------------------------------------------
 
-## [BMS Creation Tutorials and Tools](#bms-creation-tutorials-and-tools)
+## Event Packs
 
 Content goes here.
 
 --------------------------------------------------
 
-## [Other Songs and Sabuns](#other-songs-and-sabuns)
+## BMS Creation Tutorials and Tools
+
+Content goes here.
+
+--------------------------------------------------
+
+## Other Songs and Sabuns
 
 * [BMS uploader Mirror](http://www.ribbit.xyz/bms/mirror/)
 * [OverJoy Songs and Sabuns](https://onedrive.live.com/?id=40805CD20B6241C6%211913&cid=40805CD20B6241C6)
@@ -118,6 +128,6 @@ Content goes here.
 
 --------------------------------------------------
 
-## [Miscellaneous](#miscellaneous)
+## Miscellaneous
 
 Content goes here.
