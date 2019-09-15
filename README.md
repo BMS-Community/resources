@@ -1,9 +1,9 @@
 # BMS Community Resources
 
-A site with BMS related links. <br>
+A website with BMS related resources. <br>
 Feel free to open issues and pull requests.
 
---------------------------------------------------
+
 
 ## Table of Contents
 
@@ -20,7 +20,7 @@ Feel free to open issues and pull requests.
 * [Other Songs and Sabuns](#other-songs-and-sabuns)
 * [Miscellaneous](#miscellaneous)
 
---------------------------------------------------
+
 
 ## Communities
 
@@ -29,7 +29,7 @@ Feel free to open issues and pull requests.
 * [K-BMS](https://k-bms.com/)
 * [r/lunaticrave2](https://www.reddit.com/r/lunaticrave2/)
 
---------------------------------------------------
+
 
 ## Player Guides
 
@@ -40,7 +40,7 @@ Feel free to open issues and pull requests.
 * [IIDX Tutorial: Lets talk about key setups by DARQs](https://www.youtube.com/watch?v=SyTYiEhMYG4)
 * [PMS Guide](http://vsrg.pbworks.com/w/page/121957257/PMS%20(9k)%20Guide)
 
---------------------------------------------------
+
 
 ## Clients
 
@@ -62,7 +62,7 @@ Bemuse is a BMS player which runs completely in the browser.
 ### [QMS](https://misoshiru-cpp.jimdo.com/download/)
 QMS is a new BMS player that's meant to be identical to LR2 in gameplay but without the bugs.
 
---------------------------------------------------
+
 
 ## Starter Packs
 
@@ -77,43 +77,43 @@ QMS is a new BMS player that's meant to be identical to LR2 in gameplay but with
 * [Korea BMS Starter Pack Primrose](https://k-bms.com/primrose/)
 * [Lunatic Rave Endless Music](http://www.is-m.jp/lrem/download.html)
 
---------------------------------------------------
+
 
 ## Player Utilities
 
 Content goes here.
 
---------------------------------------------------
+
 
 ## Dans
 
 Content goes here.
 
---------------------------------------------------
+
 
 ## Skins
 
 Content goes here.
 
---------------------------------------------------
+
 
 ## Tables
 
 Content goes here.
 
---------------------------------------------------
+
 
 ## Event Packs
 
 Content goes here.
 
---------------------------------------------------
+
 
 ## BMS Creation Tutorials and Tools
 
 Content goes here.
 
---------------------------------------------------
+
 
 ## Other Songs and Sabuns
 
@@ -126,7 +126,7 @@ Content goes here.
 * [Satellite Package (updated weekly)](https://pastebin.com/L2fcu8MR)
 * [24K "Sample Charts" list](https://docs.google.com/spreadsheets/d/1p4ksJmFty2l1zyJUmt24Ka2G89D7NdjFMA06QevTNv8/edit#gid=414122430)
 
---------------------------------------------------
+
 
 ## Miscellaneous
 
