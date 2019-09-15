@@ -14,8 +14,8 @@ Feel free to open issues and pull requests.
 * [Skins](#skins)
 * [Tables](#tables)
 * [Event Packs](#event-packs)
-* [BMS Creation Tutorials and Tools](#bms-creation)
-* [Other Songs + Sabuns](#sabuns)
+* [BMS Creation Tutorials and Tools](#bms-creation-tutorials-and-tools)
+* [Other Songs + Sabuns](#other-songs-+-sabuns)
 * [Miscellaneous](#miscellaneous)
 
 ## [Communities](#communities)
@@ -35,6 +35,18 @@ A Korean BMS community. [*Visit website*](https://k-bms.com/).
 ### r/lunaticrave2
 
 The Lunatic Rave 2 subreddit. [*Visit website*](https://www.reddit.com/r/lunaticrave2/).
+
+## [Guides](#guides)
+
+### Lunatic Rave 2 Guide
+
+Dolphin's complete LR2 guide, from installation to advanced features. [*Visit website*](http://news.keysounds.net/lr2guide).
+
+### IIDX How-To: Playstyle
+greentea's guide on controller play-styles. [*Watch video*](https://www.youtube.com/watch?v=yRnYOdsgdIY).
+
+### IIDX Tutorial: Lets talk about key setups by DARQs
+DARQS's guide on controller key setups: buttons, springs, and switches. [*Watch video*](https://www.youtube.com/watch?v=SyTYiEhMYG4).
 
 ## [Clients](#clients)
 
@@ -79,11 +91,11 @@ Content goes here.
 
 Content goes here.
 
-## [BMS Creation Tutorials and Tools](#bms-creation)
+## [BMS Creation Tutorials and Tools](#bms-creation-tutorials-and-tools)
 
 Content goes here.
 
-## [Other Songs + Sabuns](#sabuns)
+## [Other Songs + Sabuns](#other-songs-+-sabuns)
 
 Content goes here.
 
