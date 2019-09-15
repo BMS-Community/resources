@@ -25,29 +25,17 @@ Feel free to open issues and pull requests.
 ## [Communities](#communities)
 
 * [BMS Community](https://discord.gg/Q4vKF8T)
-(a large international discord server)
 * [BMS Server JAPAN](https://discord.gg/DvxHfEa)
-(a large Japanese discord server)
 * [K-BMS](https://k-bms.com/)
-(a Korean BMS community)
 * [r/lunaticrave2](https://www.reddit.com/r/lunaticrave2/)
-(the Lunatic Rave 2 subreddit)
 
 --------------------------------------------------
 
 ## [Guides](#guides)
 
-### Lunatic Rave 2 Guide
-Dolphin's complete LR2 guide, from installation to advanced features.
-[*Visit website*](http://news.keysounds.net/lr2guide).
-
-### IIDX How-To: Playstyle
-greentea's guide on controller play-styles.
-[*Watch video*](https://www.youtube.com/watch?v=yRnYOdsgdIY).
-
-### IIDX Tutorial: Lets talk about key setups by DARQs
-DARQS's guide on controller key setups: buttons, springs, and switches.
-[*Watch video*](https://www.youtube.com/watch?v=SyTYiEhMYG4).
+* [Lunatic Rave 2 Guide](http://news.keysounds.net/lr2guide)
+* [IIDX How-To: Playstyle](https://www.youtube.com/watch?v=yRnYOdsgdIY)
+* [IIDX Tutorial: Lets talk about key setups by DARQs](https://www.youtube.com/watch?v=SyTYiEhMYG4)
 
 --------------------------------------------------
 
