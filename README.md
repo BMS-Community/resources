@@ -1,7 +1,6 @@
 # [BMS Community Resources](#bms-community-resources)
 
-A site with BMS related links.
-<br>
+A site with BMS related links. <br>
 Feel free to open issues and pull requests.
 
 --------------------------------------------------
@@ -41,24 +40,23 @@ Feel free to open issues and pull requests.
 
 ## [Clients](#clients)
 
-### Lunatic Rave 2
-LR2 is the standard BMS player, it's over 10 years old and can be buggy. It has by far the largest playerbase. Many skins and tools have been made for LR2. It comes in 3 variants: SD which is 640x480 and the standard; HD which is 1280x720 and is installed by pasting it over your SD version install, then renaming config.xml to config.xmh; and FHD which is 1920x1080 and is installed by using the patch executable on your SD install.
+### [Lunatic Rave 2 SD](https://drive.google.com/file/d/1HODmutLTJLyjnZ9AuDzC8PkGUnbL6dxD/view)
+LR2 is the standard BMS player, it's over 10 years old and can be buggy. It has by far the largest playerbase. Many skins and tools have been made for LR2. This is the default variant, meaning 640x480.
 
-* [SD Client](https://drive.google.com/file/d/1HODmutLTJLyjnZ9AuDzC8PkGUnbL6dxD/view)
-* [HD Client](https://drive.google.com/file/d/1HODmutLTJLyjnZ9AuDzC8PkGUnbL6dxD/view)
-* [FHD Patch](https://drive.google.com/file/d/12wDpQu-z65e1hiXYy4tt8Ep76_QscXPI/view)
+### [Lunatic Rave 2 HD](https://drive.google.com/file/d/1GB1I6LSWnOeQbdpqj4doue7wLT15h-vX/view)
+This is the HD variant, meaning 1280x720. You install it by pasting it over your install of the SD version and renaming `config.xml` to `config.xmh`
 
-### beatoraja
+### [Lunatic Rave 2 FHD](https://drive.google.com/file/d/12wDpQu-z65e1hiXYy4tt8Ep76_QscXPI/view)
+This is the Full HD variant, meaning 1920x1080. You install it by using the patch executable on your install of the SD version. No need to rename your config file.
+
+### [beatoraja](https://github.com/exch-bms2/beatoraja/releases)
 beatoraja is an BMS player based on Java. It is cross-platform, and supports BMSON. There are multiple internet rankings for beatoraja.
-[*View releases*](https://github.com/exch-bms2/beatoraja/releases).
 
-### Bemuse
+### [Bemuse](https://bemuse.ninja/)
 Bemuse is a BMS player which runs completely in the browser.
-[*Visit website*](https://bemuse.ninja/).
 
-### QMS
+### [QMS](https://misoshiru-cpp.jimdo.com/download/)
 QMS is a new BMS player that's meant to be identical to LR2 in gameplay but without the bugs.
-[*View releases*](https://misoshiru-cpp.jimdo.com/download/)
 
 --------------------------------------------------
 
