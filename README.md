@@ -48,10 +48,12 @@ Dolphin's complete LR2 guide, from installation to advanced features.
 [*Visit website*](http://news.keysounds.net/lr2guide).
 
 ### IIDX How-To: Playstyle
+
 greentea's guide on controller play-styles.
 [*Watch video*](https://www.youtube.com/watch?v=yRnYOdsgdIY).
 
 ### IIDX Tutorial: Lets talk about key setups by DARQs
+
 DARQS's guide on controller key setups: buttons, springs, and switches.
 [*Watch video*](https://www.youtube.com/watch?v=SyTYiEhMYG4).
 
@@ -78,9 +80,42 @@ beatoraja is an BMS player based on Java. It is cross-platform, and supports BMS
 Bemuse is a BMS player which runs completely in the browser.
 [*Visit website*](https://bemuse.ninja/).
 
+### QMS
+
+QMS is a new BMS player that's meant to be identical to LR2 in gameplay but without the bugs.
+[*View releases*](https://misoshiru-cpp.jimdo.com/download/)
+
 ## [Starter Packs](#starter-packs)
 
-Content goes here.
+GENOSIDE BMS StarterPackage 2018.
+[*Download*](http://nekokan.dyndns.info/~lobsak/genocide/grade.html).
+ 
+GENOSIDE BMS StarterPackage.
+[*Download*](http://nekokan.dyndns.info/~lobsak/genoside/).
+ 
+Toy Musical Gateway.
+[*Download*](http://toymusical.net/).
+ 
+LUMINOUS.
+[*Download*](http://l-bms.space/1st/).
+ 
+Pure White.
+[*Download*](http://l-bms.space/2nd/).
+ 
+BMS Starter Pack 2006-2009.
+[*Download*](http://www.yamajet.com/bmssp/guide.html).
+ 
+Korea BMS Starter Pack 2009.
+[*Download*](http://musicgamelab.com:88/KBSP2009.exe).
+ 
+Korea BMS Starter Pack Polaris.
+[*Download*](https://k-bms.com/starter/polaris.jsp).
+ 
+Korea BMS Starter Pack Primrose.
+[*Download*](https://k-bms.com/primrose/).
+ 
+Lunatic Rave Endless Music.
+[*Download*](http://www.is-m.jp/lrem/download.html).
 
 ## [Dans](#dans)
 
@@ -109,8 +144,8 @@ BMS uploader Mirror.
 
 OverJoy Songs and Sabuns.
 [*Download*](https://onedrive.live.com/?id=40805CD20B6241C6%211913&cid=40805CD20B6241C6).
-
 Pack for every 24K BMS in the 24K table.
+
 [*Download*](https://drive.google.com/file/d/1HoLuCcZ6gzxjofM8Rw-INQxp0EhE1oFY/view).
 
 24K/48K Tables Pack.
