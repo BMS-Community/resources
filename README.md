@@ -122,7 +122,27 @@ Content goes here.
 
 ## Tables
 
-Content goes here.
+### Lunatic Rave 2
+
+* [Normal 1](http://www.ribbit.xyz/bms/tables/normal.html)
+* [Insane 1](http://nekokan.dyndns.info/~lobsak/genocide/insane.html)
+* [Normal 2](http://rattoto10.jounin.jp/table.html)
+* [Insane 2](http://rattoto10.jounin.jp/table_insane.html)
+* [DP Normal (Delta)](http://dpbmsdelta.web.fc2.com/table/dpdelta.html)
+* [DP Insane](http://dpbmsdelta.web.fc2.com/table/insane.html)
+* [OverJoy](http://cgi.geocities.jp/asahi3jpn/overjoy.php)
+* [LN Table](http://flowermaster.web.fc2.com/lrnanido/gla/LN.html)
+* [PMS Normal](http://www.ribbit.xyz/bms/tables/normal.html)
+* [PMS Insane](http://stellawingroad.web.fc2.com/new/pms.html)
+* [Miscellaneous Tables (used by BMSeeker)](http://www.ribbit.xyz/bms/tables/table_list.html)
+
+### beatoraja
+
+* [DP Delta](https://tear.moe/table/dpdelta-normal-dans.html)
+* [GENOSIDE 2018 SP Dans (WARNING: these courses do not use the LR2 dan gauge)](https://tear.moe/table/genoside-2018-sp.html)
+* [GENOSIDE 2018 DP Dans (WARNING: these courses do not use the LR2 dan gauge)](https://tear.moe/table/genoside-2018-dp.html)
+* [Satellite Skill Analyzer](http://mirai-yokohama.sakura.ne.jp/bms/satellite_skill.html)
+* [Stella Skill Simulator v2](http://mirai-yokohama.sakura.ne.jp/bms/stella_skill.html)
 
 
 
