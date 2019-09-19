@@ -93,7 +93,7 @@ A tool that you can use to get recommendations on charts to play. It can also gi
 A tool used to view your clear lamps on several tables. You need to meet some requirements before being able to see your name there, these are specified on the wevsite.
 
 ### [BMSeeker Homepage](https://tumblr.ribbit.xyz/post/129562866015/bemusicseeker-%E6%AD%A3%E5%BC%8F%E7%89%88%E3%82%92%E5%85%AC%E9%96%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-v034)
-A very useful program with many features. You can use it to add tables in Lunatic Rave 2, remove duplicates in your BMS library, install *sabuns* automatically, fix songs with wrong encoding or even use it as a music player.
+A very useful program with many features. You can use it to add tables in Lunatic Rave 2, remove duplicates in your BMS library, install sabuns automatically, fix songs with wrong encoding or even use it as a music player.
 
 ### [BMSeeker English Download](https://www.dropbox.com/s/nh9e4z2fsxqozpi/BMSeeker-English-setup.exe?dl=0)
 The English version of BMSeeker.
@@ -111,8 +111,7 @@ A tool used to convert SD skins to HD/FHD skins and vice-versa.
 A website where you can search for BMS songs and get informations about them.
 
 ### [IIDX Hand Simulator](http://blog-imgs-50.fc2.com/p/o/t/potofu412/unsi_gene_html5.html)
-A tool for "simulating" hand positions on controllers
-
+A tool for "simulating" hand positions on controllers.
 
 ### [Online BMS Chart Viewer](http://www.ribbit.xyz/bms/score/)
 A website where you can upload and view BMS charts.
