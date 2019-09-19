@@ -83,7 +83,35 @@ QMS is a new BMS player that's meant to be identical to LR2 in gameplay but with
 
 ## Player Utilities
 
-Content goes here.
+### [LR2 Internet Ranking](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi)
+Description goes here.
+
+### [Walkure](http://walkure.net/hakkyou/)
+Description goes here.
+
+### [Stairway](http://stairway.sakura.ne.jp/bms/)
+Description goes here.
+
+### [BMSeeker Homepage](https://tumblr.ribbit.xyz/post/129562866015/bemusicseeker-%E6%AD%A3%E5%BC%8F%E7%89%88%E3%82%92%E5%85%AC%E9%96%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-v034)
+Description goes here.
+
+### [BMSeeker English Download](https://www.dropbox.com/s/nh9e4z2fsxqozpi/BMSeeker-English-setup.exe?dl=0)
+Description goes here.
+
+### [Stella Table](https://stellabms.xyz/)
+Description goes here.
+
+### [GLAssist Download (ver 2.3.2)](https://drive.google.com/file/d/0BxhgyhaSFcpBRE96NmxJTnFxcWs/view)
+Description goes here.
+
+### [LR2SkinConverter](https://www.dropbox.com/s/mszupq5ri7wivjr/LR2SkinConverter_0.2.0.zip?dl=1)
+Description goes here.
+
+### [BMS Search](https://bmssearch.net/)
+Description goes here.
+
+### [IIDX Hand Simulator](http://blog-imgs-50.fc2.com/p/o/t/potofu412/unsi_gene_html5.html)
+A tool for "simulating" hand positions on controllers
 
 
 
