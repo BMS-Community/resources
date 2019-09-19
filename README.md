@@ -109,9 +109,27 @@ Content goes here.
 
 
 
-## BMS Creation Tutorials and Tools
+## BMS Creation
 
-Content goes here.
+### Tutorials
+* [BMS Creation Notes #1: Introduction to BMS](https://www.youtube.com/watch?v=Guv1vRAKanY)
+* [BMS Creation Notes #2: Creating Keysounds](https://www.youtube.com/watch?v=xYAeD4YPbAM)
+* [BMS Creation Notes #3: The Basics of Charting](https://www.youtube.com/watch?v=33tkdoRkA_s)
+* [Legacy BGA How-To](https://docs.google.com/document/d/1jL9f5CaH3Rm6bNa9ijUIDBqfpyDYvq4mIK_AeyUJ3mI)
+* [BMS Charting 101](https://docs.google.com/document/d/1uWpmPIpV7q2JIvObaJJ0Q6kUOA4oBav7PvWlEd_uBzQ)
+* [LR2 Skinning Guides by THULIUM](https://onedrive.live.com/?cid=6E64154AF7641296&id=6E64154AF7641296!105)
+
+### Tools
+* [BMS #TOTAL Calculator](https://hitkey.nekokan.dyndns.info/total.htm)
+* [woslicerII](http://cerebralmuddystream.nekokan.dyndns.info/soft/woslicerII.zip)
+* [BMHelper (English)](https://www.dropbox.com/s/e7196jx73g4huok/bmh_english.zip?dl=0)
+* [mBMplay](https://misty.orz.hm/mbmplay.html)
+* [uBMplay 1.5.2](http://ucn.tokonats.net/archives/ubmplay/ubmplay_152.zip)
+* [BMSE](http://ucn.tokonats.net/software/bmse/)
+* [BMSE - LN modification](https://github.com/dtinth/UCN-BMSE)
+* [iBMSC](https://www.cs.mcgill.ca/~ryang6/iBMSC/)
+* [µBMSC - modified version of iBMSC (bms editor)](https://github.com/zardoru/iBMSC)
+* [BMSONE (bmson editor)](https://excln.github.io/bmsone.html)
 
 
 
