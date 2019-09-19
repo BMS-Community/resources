@@ -114,6 +114,10 @@ Description goes here.
 A tool for "simulating" hand positions on controllers
 
 
+### [Online BMS Chart Viewer](http://www.ribbit.xyz/bms/score/)
+A website where you can upload and view BMS charts.
+
+
 
 ## Dans
 
@@ -249,4 +253,10 @@ A tool for "simulating" hand positions on controllers
 
 ## Miscellaneous
 
-Content goes here.
+* [BMS EVENT LITE (Hitkey Event List)](https://hitkey.nekokan.dyndns.info/bmsevt.htm#ALL)
+* [BMS Terminology](http://news.keysounds.net/terminology)
+* [LR2 Skin Help (definition and usage of variables in .csv files)](http://right-stick.sub.jp/lr2skinhelp.html)
+* [BMX2WAV](http://childs.squares.net/program/bmx2wav/)
+* [Be-Music Surge (BMS Music Station)](http://be-music.surge.sh/)
+* [LR2 Timing Window](https://hitkey.nekokan.dyndns.info/diary1501.php#D150119)
+* [10K2S Difficulty Table Discussion Spreadsheet](https://docs.google.com/spreadsheets/d/1MrtyIe3F3U7qQl2w1TS-4REJQ2pAFVx-U3QV14MEBvg/edit)
