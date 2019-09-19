@@ -84,31 +84,31 @@ QMS is a new BMS player that's meant to be identical to LR2 in gameplay but with
 ## Player Utilities
 
 ### [LR2 Internet Ranking](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi)
-Description goes here.
+Lunatic Rave 2's internet ranking. You can add rivals, look for charts and look at rankings for specific charts there.
 
 ### [Walkure](http://walkure.net/hakkyou/)
-Description goes here.
+A tool that you can use to get recommendations on charts to play. It can also give you a "rating" that can be used to compare yourself to other players, depending of your clears. Please note that this only works with charts from the Insane 1 and Overjoy tables.
 
 ### [Stairway](http://stairway.sakura.ne.jp/bms/)
-Description goes here.
+A tool used to view your clear lamps on several tables. You need to meet some requirements before being able to see your name there, these are specified on the wevsite.
 
 ### [BMSeeker Homepage](https://tumblr.ribbit.xyz/post/129562866015/bemusicseeker-%E6%AD%A3%E5%BC%8F%E7%89%88%E3%82%92%E5%85%AC%E9%96%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-v034)
-Description goes here.
+A very useful program with many features. You can use it to add tables in Lunatic Rave 2, remove duplicates in your BMS library, install *sabuns* automatically, fix songs with wrong encoding or even use it as a music player.
 
 ### [BMSeeker English Download](https://www.dropbox.com/s/nh9e4z2fsxqozpi/BMSeeker-English-setup.exe?dl=0)
-Description goes here.
+The English version of BMSeeker.
 
 ### [Stella Table](https://stellabms.xyz/)
-Description goes here.
+A high-level table that can act as an alternative to the Overjoy table.
 
 ### [GLAssist Download (ver 2.3.2)](https://drive.google.com/file/d/0BxhgyhaSFcpBRE96NmxJTnFxcWs/view)
-Description goes here.
+A tool used to add tables in Lunatic Rave 2. This program is deprecated, so please use BMSeeker instead if you can.
 
 ### [LR2SkinConverter](https://www.dropbox.com/s/mszupq5ri7wivjr/LR2SkinConverter_0.2.0.zip?dl=1)
-Description goes here.
+A tool used to convert SD skins to HD/FHD skins and vice-versa.
 
 ### [BMS Search](https://bmssearch.net/)
-Description goes here.
+A website where you can search for BMS songs and get informations about them.
 
 ### [IIDX Hand Simulator](http://blog-imgs-50.fc2.com/p/o/t/potofu412/unsi_gene_html5.html)
 A tool for "simulating" hand positions on controllers
@@ -147,7 +147,6 @@ A website where you can upload and view BMS charts.
 * [LITONE](http://desout2.freeiz.com/)
 * [24K keyboard-like skin for beatoraja](https://drive.google.com/file/d/1z-xZkJjDVThMYSAz_5_TY-Qi_fqJ5IgV/view)
 * [50K keyboard-like skin for beatoraja](https://drive.google.com/file/d/1uT_xAev-nvNid3Cxk3YKicvOByWi2DkO/view)
-* [Remi-oraja](https://drive.google.com/file/d/1otmcKlRZhRtcE8LgwUTJVhjbBtbqXV6K/view)
 
 ### Sound
 * [Crystalline](https://drive.google.com/file/d/1BMeUEmKprfkQPcClMvXppdUjEnlUNrr1/view)
