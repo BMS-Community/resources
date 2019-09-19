@@ -212,6 +212,10 @@ A website where you can upload and view BMS charts.
 * [Mumeisen15](https://drive.google.com/file/d/1p8_4UpilwmoresANu747w07M48X2rTUY/view)
 * [A-1 Climax 6th](https://docs.google.com/uc?id=0B37scVeGwGFYOG4xR0tXY1VFTU0&export=download)
 * [BMS Shuin II](https://drive.google.com/open?id=17CiBb24M65WoBd_sHXEI-8Izhpky4hHZ)
+* [Re: Copy & Arrange Only BMS Event 2012.12 ](https://archive.org/details/recopyarrangeonlybmsevent2012.12)
+* [Minikb! 32kb BMS Event](https://archive.org/details/minikb32kbms)
+* [「lokb」](https://archive.org/details/lokb10kbms)
+
 
 
 ## BMS Creation
