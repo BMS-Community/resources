@@ -39,6 +39,8 @@ Feel free to open issues and pull requests.
 * [IIDX How-To: Playstyle](https://www.youtube.com/watch?v=yRnYOdsgdIY)
 * [IIDX Tutorial: Lets talk about key setups by DARQs](https://www.youtube.com/watch?v=SyTYiEhMYG4)
 * [PMS Guide](http://vsrg.pbworks.com/w/page/121957257/PMS%20(9k)%20Guide)
+* [CanMusic Setup Guide](http://vsrg.pbworks.com/w/page/123390204/CanMusic)
+* [10K2S Setup Guide](http://vsrg.pbworks.com/w/page/121853208/10K2S%20Guide)
 
 
 
@@ -93,7 +95,28 @@ Content goes here.
 
 ## Skins
 
-Content goes here.
+### Lunatic Rave 2
+* [WMIX](https://drive.google.com/file/d/1uQSvjK3JuEz1nsaffUNDgAjNs77In4rw/view)
+* [Endless Circulation Self Evolution](https://drive.google.com/file/d/1X153J9iyd7Iq6lryP5p1As97jYfMPwty/view)
+* [Seraphic Ver.F+](https://drive.google.com/file/d/1cL-HQkjDLfzFRccKnhRcjMmcyS_jjbHu/view)
+* [KCOOL 1.72](https://drive.google.com/file/d/1BF1St-CED-mmKERuEaCYs71wR0dLd0JD/view)
+* [LITONE5 0.5.1](https://drive.google.com/file/d/1rlZvVEjKuLTSW2lKGxjZ8wG8-_Xm0JDO/view)
+* [LITONE5 PLAYAC 1.0.1](https://drive.google.com/file/d/1kfLjXZZxdOLpfMUbkOFIaD1QMIO7DmDw/view)
+* [ht51-DeepForest-v2 20110917](https://drive.google.com/file/d/1DvSTavJFUv1kqhKlExunqZfzy_1vQu-3/view)
+* [Remi-S 10](https://drive.google.com/file/d/14Cqt1-VxUgErhinD4dWleMMgnjkMA7IF/view)
+* [Remi-S+ v2.40](https://drive.google.com/file/d/1fHtp8uZWcrvJAY7Szl6r5x8REZFwCBYA/view)
+* [Remi-S Snow Wind](https://drive.google.com/file/d/1WblfOZpND217Ql8SHw9PxmUCRxW1np1x/view)
+* [Remi-S (various editions)](https://drive.google.com/file/d/17N77oL_2XrTBKUa6Mx3xh3bFEjGlfmsh/view)
+
+### beatoraja
+* [Brook](https://drive.google.com/file/d/1ei0w7_gMkZ7TU9q79WkQ5RPnTIbhWbOk/view)
+* [LITONE](http://desout2.freeiz.com/)
+* [24K keyboard-like skin for beatoraja](https://drive.google.com/file/d/1z-xZkJjDVThMYSAz_5_TY-Qi_fqJ5IgV/view)
+* [50K keyboard-like skin for beatoraja](https://drive.google.com/file/d/1uT_xAev-nvNid3Cxk3YKicvOByWi2DkO/view)
+
+### Sound
+* [Crystalline](https://drive.google.com/file/d/1BMeUEmKprfkQPcClMvXppdUjEnlUNrr1/view)
+* [Seraphic Ver.F+](https://drive.google.com/file/d/1OI_zPFKadnxzqdbDmoTrXje_qFl1cHDb/view)
 
 
 
