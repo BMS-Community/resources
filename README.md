@@ -150,6 +150,10 @@ A website where you can upload and view BMS charts.
 * [24K keyboard-like skin for beatoraja](https://drive.google.com/file/d/1z-xZkJjDVThMYSAz_5_TY-Qi_fqJ5IgV/view)
 * [50K keyboard-like skin for beatoraja](https://drive.google.com/file/d/1uT_xAev-nvNid3Cxk3YKicvOByWi2DkO/view)
 * [Remi-oraja](https://drive.google.com/file/d/1otmcKlRZhRtcE8LgwUTJVhjbBtbqXV6K/view)
+* [Skins on http://dpbmschart.web.fc2.com](http://dpbmschart.web.fc2.com/warehouse.html)
+* [RESULT SIMPLE FM](https://twitter.com/noriwo765/status/1047494076482777088)
+* [Skins by @mnpyprrn](https://drive.google.com/drive/u/3/folders/1De-sSKu-B2et1h1Bab7XKsaHm-NJBtiD)
+* [DarkTheme](https://github.com/Shimi9999/DarkTheme)
 
 ### Sound
 * [Crystalline](https://drive.google.com/file/d/1BMeUEmKprfkQPcClMvXppdUjEnlUNrr1/view)
