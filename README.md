@@ -52,6 +52,9 @@ LR2 is the standard BMS player, it's over 10 years old and can be buggy. It has 
 ### [Lunatic Rave 2 HD](https://drive.google.com/file/d/1GB1I6LSWnOeQbdpqj4doue7wLT15h-vX/view)
 This is the HD variant, meaning 1280x720. You install it by pasting it over your install of the SD version and renaming `config.xml` to `config.xmh`
 
+### [Lunatic Rave 2 HD with Fast/Slow](https://drive.google.com/file/d/1A7CyWr4Av-ukd0IsVMw1HXAp3XtnWjJC/view)
+This is the same as the other HD version, but with Fast/Slow indicators (fixed LN version).
+
 ### [Lunatic Rave 2 FHD](https://drive.google.com/file/d/12wDpQu-z65e1hiXYy4tt8Ep76_QscXPI/view)
 This is the Full HD variant, meaning 1920x1080. You install it by using the patch executable on your install of the SD version. No need to rename your config file.
 
@@ -231,6 +234,7 @@ A website where you can upload and view BMS charts.
 ### Tools
 * [BMS #TOTAL Calculator](https://hitkey.nekokan.dyndns.info/total.htm)
 * [woslicerII](http://cerebralmuddystream.nekokan.dyndns.info/soft/woslicerII.zip)
+* [BMHelper (Japanese)](https://excln.github.io/bmhelper.html)
 * [BMHelper (English)](https://www.dropbox.com/s/e7196jx73g4huok/bmh_english.zip?dl=0)
 * [mBMplay](https://misty.orz.hm/mbmplay.html)
 * [uBMplay 1.5.2](http://ucn.tokonats.net/archives/ubmplay/ubmplay_152.zip)
@@ -246,7 +250,7 @@ A website where you can upload and view BMS charts.
 
 * [BMS uploader Mirror](http://www.ribbit.xyz/bms/mirror/)
 * [OverJoy Songs and Sabuns](https://onedrive.live.com/?id=40805CD20B6241C6%211913&cid=40805CD20B6241C6)
-* [Pack for every 24K BMS in the 24K table](https://drive.google.com/file/d/1HoLuCcZ6gzxjofM8Rw-INQxp0EhE1oFY/view)
+* [Pack for almost every 24K BMS in the 24K table](https://drive.google.com/file/d/1HoLuCcZ6gzxjofM8Rw-INQxp0EhE1oFY/view)
 * [24K/48K Tables Pack](https://www.dropbox.com/s/b5iyzzaq5lq4yfk/24keys.7z?dl=0)
 * [BMS Sabun Uploader](http://gnqg.rosx.net/upload/)
 * [Stella Package (updated weekly)](https://pastebin.com/9GfkuLWM)
