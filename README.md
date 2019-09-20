@@ -86,6 +86,15 @@ QMS is a new BMS player that's meant to be identical to LR2 in gameplay but with
 
 ## Player Utilities
 
+### [MochaIR](https://mocha-repository.info/)
+The most populated beatoraja IR, only available bundled with the compiled releases.
+
+### [MinIR](https://www.gaftalk.com/minir/)
+The main unique feature of this beatoraja IR is the Unique ID which can be used to bind the profile with [Stellaway](https://lite.stellabms.xyz/#/stellaway/beatoraja) for the Satellite and Stella difficulty tables.
+
+### [CitrusIR](https://citrus-ir.iidx.app/)
+Another early beatoraja IR implementation. No specific features when set as the main IR.
+
 ### [LR2 Internet Ranking](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi)
 Lunatic Rave 2's internet ranking. You can add rivals, look for charts and look at rankings for specific charts there.
 
