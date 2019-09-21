@@ -12,11 +12,11 @@ Feel free to open issues and pull requests.
 * [Clients](#clients)
 * [Starter Packs](#starter-packs)
 * [Player Utilities](#player-utilities)
-* [Dans](#dans)
+* [Dan Courses](#dan-courses)
 * [Skins](#skins)
 * [Tables](#tables)
 * [Event Packs](#event-packs)
-* [BMS Creation Tutorials and Tools](#bms-creation-tutorials-and-tools)
+* [BMS Creation Tutorials and Tools](#bms-creation)
 * [Other Songs and Sabuns](#other-songs-and-sabuns)
 * [Miscellaneous](#miscellaneous)
 
@@ -59,7 +59,7 @@ This is the same as the other HD version, but with Fast/Slow indicators (fixed L
 This is the Full HD variant, meaning 1920x1080. You install it by using the patch executable on your install of the SD version. No need to rename your config file.
 
 ### [beatoraja](https://github.com/exch-bms2/beatoraja/releases)
-beatoraja is an BMS player based on Java. It is cross-platform, and supports BMSON. There are multiple internet rankings for beatoraja.
+beatoraja is a BMS player made in Java. It is open source, cross-platform, and supports BMSON. There are multiple internet ranking servers for beatoraja.
 
 ### [Bemuse](https://bemuse.ninja/)
 Bemuse is a BMS player which runs completely in the browser.
@@ -67,6 +67,8 @@ Bemuse is a BMS player which runs completely in the browser.
 ### [QMS](https://misoshiru-cpp.jimdo.com/download/)
 QMS is a new BMS player that's meant to be identical to LR2 in gameplay but without the bugs.
 
+### [List of BMS Players](https://www40.atwiki.jp/laser_bm/pages/16.html)
+Lists most other BMS players, sorted by year of release. (Japanese)
 
 
 ## Starter Packs
@@ -86,17 +88,17 @@ QMS is a new BMS player that's meant to be identical to LR2 in gameplay but with
 
 ## Player Utilities
 
+### [LR2 Internet Ranking (LR2IR)](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi)
+Lunatic Rave 2's Internet Ranking (IR) server. You can add rivals, look for charts and look at rankings for specific charts there.
+
 ### [MochaIR](https://mocha-repository.info/)
-The most populated beatoraja IR, only available bundled with the compiled releases.
+A beatoraja Internet Ranking (IR) server. The most populated beatoraja IR, only available bundled with the compiled releases.
 
 ### [MinIR](https://www.gaftalk.com/minir/)
-The main unique feature of this beatoraja IR is the Unique ID which can be used to bind the profile with [Stellaway](https://lite.stellabms.xyz/#/stellaway/beatoraja) for the Satellite and Stella difficulty tables.
+A beatoraja Internet Ranking (IR) server. The main unique feature of this beatoraja IR is the Unique ID which can be used to bind the profile with [Stellaway](https://lite.stellabms.xyz/#/stellaway/beatoraja) for the Satellite and Stella difficulty tables.
 
 ### [CitrusIR](https://citrus-ir.iidx.app/)
-Another early beatoraja IR implementation. No specific features when set as the main IR.
-
-### [LR2 Internet Ranking](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi)
-Lunatic Rave 2's internet ranking. You can add rivals, look for charts and look at rankings for specific charts there.
+A beatoraja Internet Ranking (IR) server. Another early beatoraja IR implementation. No specific features when set as the main IR.
 
 ### [Walkure](http://walkure.net/hakkyou/)
 A tool that you can use to get recommendations on charts to play. It can also give you a "rating" that can be used to compare yourself to other players, depending of your clears. Please note that this only works with charts from the Insane 1 and Overjoy tables.
@@ -104,14 +106,20 @@ A tool that you can use to get recommendations on charts to play. It can also gi
 ### [Stairway](http://stairway.sakura.ne.jp/bms/)
 A tool used to view your clear lamps on several tables. You need to meet some requirements before being able to see your name there, these are specified on the wevsite.
 
+### [Satellite Website](https://lite.stellabms.xyz/)
+Satellite is an alternative table to the Insane table. Covers difficulties ☆11-★19. The website is used to propose and vote for new additions / changes to the Satellite table.
+
+### [Stella Website](https://stellabms.xyz/)
+Stella is an alternative table to the Overjoy table. Covers difficulties above ★19. The website is used to propose and vote for new additions / changes to the Stella table.
+
+### [Ribbit's Online BMS Chart Viewer](http://www.ribbit.xyz/bms/score/)
+A website where you can upload and view BMS charts.
+
 ### [BMSeeker Homepage](https://tumblr.ribbit.xyz/post/129562866015/bemusicseeker-%E6%AD%A3%E5%BC%8F%E7%89%88%E3%82%92%E5%85%AC%E9%96%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-v034)
 A very useful program with many features. You can use it to add tables in Lunatic Rave 2, remove duplicates in your BMS library, install sabuns automatically, fix songs with wrong encoding or even use it as a music player.
 
 ### [BMSeeker English Download](https://www.dropbox.com/s/nh9e4z2fsxqozpi/BMSeeker-English-setup.exe?dl=0)
 The English version of BMSeeker.
-
-### [Stella Table](https://stellabms.xyz/)
-A high-level table that can act as an alternative to the Overjoy table.
 
 ### [GLAssist Download (ver 2.3.2)](https://drive.google.com/file/d/0BxhgyhaSFcpBRE96NmxJTnFxcWs/view)
 A tool used to add tables in Lunatic Rave 2. This program is deprecated, so please use BMSeeker instead if you can.
@@ -123,18 +131,15 @@ A tool used to convert SD skins to HD/FHD skins and vice-versa.
 A website where you can search for BMS songs and get informations about them.
 
 ### [IIDX Hand Simulator](http://blog-imgs-50.fc2.com/p/o/t/potofu412/unsi_gene_html5.html)
-A tool for "simulating" hand positions on controllers.
-
-### [Online BMS Chart Viewer](http://www.ribbit.xyz/bms/score/)
-A website where you can upload and view BMS charts.
+A tool for "simulating" hand positions / playstyles on controllers.
 
 
+## Dan Courses
 
-## Dans
-
-* [Official Dan Courses](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=gradelist)
+* [Official Dan Courses (GENOSIDE 2018)](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=gradelist)
 * [Old Official Dan Courses (~2012)](https://1drv.ms/f/s!AnUmuDDopb3tpFG38VunDMuAuj3J)
-* [Satellite Skill Analyzer](https://www.dropbox.com/s/vb50k0gt72ir4x7/Satellite%20Skill%20Analyzer.zip?dl=1)
+* [Satellite Skill Analyzer](https://lite.stellabms.xyz/#/skill)
+* [Stella Skill Simulator](https://stellabms.xyz/#/skill)
 
 
 
@@ -172,7 +177,7 @@ A website where you can upload and view BMS charts.
 
 ## Tables
 
-### Lunatic Rave 2
+### Lunatic Rave 2 / beatoraja
 
 * [Normal 1](http://www.ribbit.xyz/bms/tables/normal.html)
 * [Insane 1](http://nekokan.dyndns.info/~lobsak/genocide/insane.html)
@@ -184,9 +189,9 @@ A website where you can upload and view BMS charts.
 * [LN Table](http://flowermaster.web.fc2.com/lrnanido/gla/LN.html)
 * [PMS Normal](http://www.ribbit.xyz/bms/tables/normal.html)
 * [PMS Insane](http://stellawingroad.web.fc2.com/new/pms.html)
-* [Miscellaneous Tables (used by BMSeeker)](http://www.ribbit.xyz/bms/tables/table_list.html)
+* [Ribbit's List of Tables (used by BMSeeker)](http://www.ribbit.xyz/bms/tables/table_list.html)
 
-### beatoraja
+### beatoraja only
 
 * [DP Delta](https://tear.moe/table/dpdelta-normal-dans.html)
 * [GENOSIDE 2018 SP Dans (WARNING: these courses do not use the LR2 dan gauge)](https://tear.moe/table/genoside-2018-sp.html)
@@ -266,8 +271,8 @@ A website where you can upload and view BMS charts.
 * [Pack for almost every 24K BMS in the 24K table](https://drive.google.com/file/d/1HoLuCcZ6gzxjofM8Rw-INQxp0EhE1oFY/view)
 * [24K/48K Tables Pack](https://www.dropbox.com/s/b5iyzzaq5lq4yfk/24keys.7z?dl=0)
 * [BMS Sabun Uploader](http://gnqg.rosx.net/upload/)
-* [Stella Package (updated weekly)](https://pastebin.com/9GfkuLWM)
-* [Satellite Package (updated weekly)](https://pastebin.com/L2fcu8MR)
+* [Unofficial Stella Package (updated weekly)](https://pastebin.com/9GfkuLWM)
+* [Unofficial Satellite Package (updated weekly)](https://pastebin.com/L2fcu8MR)
 * [24K "Sample Charts" list](https://docs.google.com/spreadsheets/d/1p4ksJmFty2l1zyJUmt24Ka2G89D7NdjFMA06QevTNv8/edit#gid=414122430)
 
 
