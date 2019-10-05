@@ -183,7 +183,6 @@ A tool for "simulating" hand positions / playstyles on controllers.
 ## Tables
 
 ### Lunatic Rave 2 / beatoraja
-
 * [Normal 1](http://www.ribbit.xyz/bms/tables/normal.html)
 * [Insane 1](http://nekokan.dyndns.info/~lobsak/genocide/insane.html)
 * [Normal 2](http://rattoto10.jounin.jp/table.html)
@@ -197,7 +196,6 @@ A tool for "simulating" hand positions / playstyles on controllers.
 * [Ribbit's List of Tables (used by BMSeeker)](http://www.ribbit.xyz/bms/tables/table_list.html)
 
 ### beatoraja only
-
 * [DP Delta](https://tear.moe/table/dpdelta-normal-dans.html)
 * [GENOSIDE 2018 SP Dans (WARNING: these courses do not use the LR2 dan gauge)](https://tear.moe/table/genoside-2018-sp.html)
 * [GENOSIDE 2018 DP Dans (WARNING: these courses do not use the LR2 dan gauge)](https://tear.moe/table/genoside-2018-dp.html)
@@ -253,6 +251,7 @@ A tool for "simulating" hand positions / playstyles on controllers.
 * [Legacy BGA How-To](https://docs.google.com/document/d/1jL9f5CaH3Rm6bNa9ijUIDBqfpyDYvq4mIK_AeyUJ3mI)
 * [BMS Charting 101](https://docs.google.com/document/d/1uWpmPIpV7q2JIvObaJJ0Q6kUOA4oBav7PvWlEd_uBzQ)
 * [LR2 Skinning Guides by THULIUM](https://onedrive.live.com/?cid=6E64154AF7641296&id=6E64154AF7641296!105)
+* [FL Studio mid2bms guide by BilliumMoto](https://docs.google.com/document/d/1D_JdPtxNVJMQz-U9nHlZTtzsEaMeHnSBSmqeRfjLaZg/view)
 
 ### Tools
 * [BMS #TOTAL Calculator](https://hitkey.nekokan.dyndns.info/total.htm)
