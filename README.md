@@ -122,6 +122,9 @@ A very useful program with many features. You can use it to add tables in Lunati
 ### [BMSeeker English Download](https://www.dropbox.com/s/nh9e4z2fsxqozpi/BMSeeker-English-setup.exe?dl=0)
 The English version of BMSeeker.
 
+### [SimpleBMSTable](https://github.com/NotMichaelChen/SimpleBMSTable)
+A minimal difficulty table manager for LR2 that is designed to be a simple as possible to use.
+
 ### [GLAssist Download (ver 2.3.2)](https://drive.google.com/file/d/0BxhgyhaSFcpBRE96NmxJTnFxcWs/view)
 A tool used to add tables in Lunatic Rave 2. This program is deprecated, so please use BMSeeker instead if you can.
 
