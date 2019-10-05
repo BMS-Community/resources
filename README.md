@@ -71,6 +71,7 @@ QMS is a new BMS player that's meant to be identical to LR2 in gameplay but with
 Lists most other BMS players, sorted by year of release. (Japanese)
 
 
+
 ## Starter Packs
 
 * [GENOSIDE BMS StarterPackage 2018](http://nekokan.dyndns.info/~lobsak/genocide/grade.html)
@@ -132,6 +133,7 @@ A website where you can search for BMS songs and get informations about them.
 
 ### [IIDX Hand Simulator](http://blog-imgs-50.fc2.com/p/o/t/potofu412/unsi_gene_html5.html)
 A tool for "simulating" hand positions / playstyles on controllers.
+
 
 
 ## Dan Courses
@@ -283,6 +285,7 @@ A tool for "simulating" hand positions / playstyles on controllers.
 * [BMS Terminology](http://news.keysounds.net/terminology)
 * [LR2 Skin Help (definition and usage of variables in .csv files)](http://right-stick.sub.jp/lr2skinhelp.html)
 * [BMX2WAV](http://childs.squares.net/program/bmx2wav/)
+* [BGAEncAcv](https://drive.google.com/file/d/16YKTSjW6WJMTvnbfC2UZTbGJlUT97SHj/view)
 * [Be-Music Surge (BMS Music Station)](http://be-music.surge.sh/)
 * [LR2 Timing Window](https://hitkey.nekokan.dyndns.info/diary1501.php#D150119)
 * [10K2S Difficulty Table Discussion Spreadsheet](https://docs.google.com/spreadsheets/d/1MrtyIe3F3U7qQl2w1TS-4REJQ2pAFVx-U3QV14MEBvg/edit)
