@@ -197,8 +197,6 @@ A tool for "simulating" hand positions / playstyles on controllers.
 
 ### beatoraja only
 * [DP Delta](https://tear.moe/table/dpdelta-normal-dans.html)
-* [GENOSIDE 2018 SP Dans (WARNING: these courses do not use the LR2 dan gauge)](https://tear.moe/table/genoside-2018-sp.html)
-* [GENOSIDE 2018 DP Dans (WARNING: these courses do not use the LR2 dan gauge)](https://tear.moe/table/genoside-2018-dp.html)
 * [Satellite Skill Analyzer](http://mirai-yokohama.sakura.ne.jp/bms/satellite_skill.html)
 * [Stella Skill Simulator v2](http://mirai-yokohama.sakura.ne.jp/bms/stella_skill.html)
 
