@@ -238,7 +238,7 @@ A tool for "simulating" hand positions / playstyles on controllers.
 * [Re: Copy & Arrange Only BMS Event 2012.12 ](https://archive.org/details/recopyarrangeonlybmsevent2012.12)
 * [Minikb! 32kb BMS Event](https://archive.org/details/minikb32kbms)
 * [「lokb」](https://archive.org/details/lokb10kbms)
-* [BMS of Fighters eXtreme Violence](https://mega.nz/#!21dBjAzC!TMfyjOeVQaa9xtgHK8vE6aHnRZ_ngSzjEqEs0CxEfOU)
+* [BMS of Fighters eXtreme Violence](https://mega.nz/#!21dBjAzC!TMfyjOeVQaa9xtgHK8vE6aHnRZ_ngSzjEqEs0CxEfOU "Uses HQ BGAs for beatoraja; LR2 support might be limited")
 
 
 
@@ -285,7 +285,7 @@ A tool for "simulating" hand positions / playstyles on controllers.
 
 * [BMS EVENT LITE](https://hitkey.nekokan.dyndns.info/bmsevt.htm#ALL "Hitkey Event List")
 * [BMS Terminology](http://news.keysounds.net/terminology "Definition of terms used when talking about BMS")
-* [LR2 Skin Help](http://right-stick.sub.jp/lr2skinhelp.html "definition and usage of variables in .csv files")
+* [LR2 Skin Help](http://right-stick.sub.jp/lr2skinhelp.html "Definition and usage of variables in .csv files")
 * [Be-Music Surge](http://be-music.surge.sh/ "BMS Music Station")
 * [BMX2WAV](http://childs.squares.net/program/bmx2wav/ "Program that converts BMS with keysounds to a wav")
 * [BGAEncoder](https://drive.google.com/file/d/1B-EkwLeFJxBMfMP_PQsUqnB_YDu9ImsJ/view "Program that converts BMS with BGA to video")
