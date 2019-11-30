@@ -166,7 +166,7 @@ A tool for "simulating" hand positions / playstyles on controllers.
 
 ### beatoraja
 * [Brook](https://drive.google.com/file/d/1ei0w7_gMkZ7TU9q79WkQ5RPnTIbhWbOk/view)
-* [LITONE](http://desout2.freeiz.com/)
+* [LITONE](https://desout2.tk/)
 * [24K keyboard-like skin for beatoraja](https://drive.google.com/file/d/1z-xZkJjDVThMYSAz_5_TY-Qi_fqJ5IgV/view)
 * [50K keyboard-like skin for beatoraja](https://drive.google.com/file/d/1uT_xAev-nvNid3Cxk3YKicvOByWi2DkO/view)
 * [Remi-oraja](https://drive.google.com/file/d/1otmcKlRZhRtcE8LgwUTJVhjbBtbqXV6K/view)
@@ -192,7 +192,7 @@ A tool for "simulating" hand positions / playstyles on controllers.
 * [DP Insane](http://dpbmsdelta.web.fc2.com/table/insane.html)
 * [OverJoy](http://cgi.geocities.jp/asahi3jpn/overjoy.php)
 * [LN Table](http://flowermaster.web.fc2.com/lrnanido/gla/LN.html)
-* [PMS Normal](http://www.ribbit.xyz/bms/tables/normal.html)
+* [PMS Normal](http://pmsdifficulty.xxxxxxxx.jp/PMSdifficulty.html)
 * [PMS Insane](http://stellawingroad.web.fc2.com/new/pms.html)
 * [Ribbit's List of Tables (used by BMSeeker)](http://www.ribbit.xyz/bms/tables/table_list.html)
 
