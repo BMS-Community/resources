@@ -1,6 +1,7 @@
 # BMS Community Resources
 
 A website with BMS related resources. <br>
+This website is only updated occasionally, please visit the BMS Community Discord server for more up-to-date links.<br>
 Feel free to open issues and pull requests.
 
 
@@ -58,7 +59,7 @@ This is the same as the other HD version, but with Fast/Slow indicators (fixed L
 ### [Lunatic Rave 2 FHD](https://drive.google.com/file/d/12wDpQu-z65e1hiXYy4tt8Ep76_QscXPI/view)
 This is the Full HD variant, meaning 1920x1080. You install it by using the patch executable on your install of the SD version. No need to rename your config file.
 
-### [beatoraja](https://github.com/exch-bms2/beatoraja/releases)
+### [beatoraja](https://mocha-repository.info/download.php)
 beatoraja is a BMS player made in Java. It is open source, cross-platform, and supports BMSON. There are multiple internet ranking servers for beatoraja.
 
 ### [Bemuse](https://bemuse.ninja/)
@@ -102,17 +103,17 @@ A beatoraja Internet Ranking (IR) server. The main unique feature of this beator
 ### [CitrusIR](https://citrus-ir.iidx.app/)
 A beatoraja Internet Ranking (IR) server. Another early beatoraja IR implementation. No specific features when set as the main IR.
 
+### [Notepara](http://www.notepara.com/)
+A tool that lets you view your lamps across different tables. Only compatible with LR2IR.
+
 ### [Walkure](http://walkure.net/hakkyou/)
 A tool that you can use to get recommendations on charts to play. It can also give you a "rating" that can be used to compare yourself to other players, depending of your clears. Please note that this only works with charts from the Insane 1 and Overjoy tables.
 
 ### [Stairway](http://stairway.sakura.ne.jp/bms/)
 A tool used to view your clear lamps on several tables. You need to meet some requirements before being able to see your name there, these are specified on the wevsite.
 
-### [Satellite Website](https://lite.stellabms.xyz/)
-Satellite is an alternative table to the Insane table. Covers difficulties ☆11-★19. The website is used to propose and vote for new additions / changes to the Satellite table.
-
-### [Stella Website](https://stellabms.xyz/)
-Stella is an alternative table to the Overjoy table. Covers difficulties above ★19. The website is used to propose and vote for new additions / changes to the Stella table.
+### [Stella / Satellite Website](https://stellabms.xyz/)
+Stella is an alternative table to the Overjoy table that covers difficulties above ★19. On the other hand, Satellite is an alternative table to the Insane table that covers difficulties ☆11-★19. The website is used to propose and vote for new additions / changes to the Stella / Satellite table.
 
 ### [Ribbit's Online BMS Chart Viewer](http://www.ribbit.xyz/bms/score/)
 A website where you can upload and view BMS charts.
@@ -144,15 +145,14 @@ A tool for "simulating" hand positions / playstyles on controllers.
 
 * [Official Dan Courses (GENOSIDE 2018)](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=gradelist)
 * [Old Official Dan Courses (~2012)](https://1drv.ms/f/s!AnUmuDDopb3tpFG38VunDMuAuj3J)
-* [Satellite Skill Analyzer](https://lite.stellabms.xyz/#/skill)
-* [Stella Skill Simulator](https://stellabms.xyz/#/skill)
+* [Stella / Satellite Skill Simulator](https://stellabms.xyz/skill)
 
 
 
 ## Skins
 
 ### Lunatic Rave 2
-* [WMIX](https://drive.google.com/file/d/1uQSvjK3JuEz1nsaffUNDgAjNs77In4rw/view)
+* [WMIX](https://onedrive.live.com/?cid=E92E2372413C5A12&id=E92E2372413C5A12%21387&authkey=%21AJDSk4VrErhklTk)
 * [Endless Circulation Self Evolution](https://drive.google.com/file/d/1X153J9iyd7Iq6lryP5p1As97jYfMPwty/view)
 * [Seraphic Ver.F+](https://drive.google.com/file/d/1cL-HQkjDLfzFRccKnhRcjMmcyS_jjbHu/view)
 * [KCOOL 1.72](https://drive.google.com/file/d/1BF1St-CED-mmKERuEaCYs71wR0dLd0JD/view)
@@ -163,10 +163,11 @@ A tool for "simulating" hand positions / playstyles on controllers.
 * [Remi-S+ v2.40](https://drive.google.com/file/d/1fHtp8uZWcrvJAY7Szl6r5x8REZFwCBYA/view)
 * [Remi-S Snow Wind](https://drive.google.com/file/d/1WblfOZpND217Ql8SHw9PxmUCRxW1np1x/view)
 * [Remi-S (various editions)](https://drive.google.com/file/d/17N77oL_2XrTBKUa6Mx3xh3bFEjGlfmsh/view)
+* [RED BELT/OVERACTiVE](http://right-stick.sub.jp/rb.html)
 
 ### beatoraja
 * [Brook](https://drive.google.com/file/d/1ei0w7_gMkZ7TU9q79WkQ5RPnTIbhWbOk/view)
-* [LITONE](https://desout2.tk/)
+* [LITONE](http://desout2.freeiz.com/)
 * [24K keyboard-like skin for beatoraja](https://drive.google.com/file/d/1z-xZkJjDVThMYSAz_5_TY-Qi_fqJ5IgV/view)
 * [50K keyboard-like skin for beatoraja](https://drive.google.com/file/d/1uT_xAev-nvNid3Cxk3YKicvOByWi2DkO/view)
 * [Remi-oraja](https://drive.google.com/file/d/1otmcKlRZhRtcE8LgwUTJVhjbBtbqXV6K/view)
@@ -188,9 +189,13 @@ A tool for "simulating" hand positions / playstyles on controllers.
 * [Insane 1](http://nekokan.dyndns.info/~lobsak/genocide/insane.html)
 * [Normal 2](http://rattoto10.jounin.jp/table.html)
 * [Insane 2](http://rattoto10.jounin.jp/table_insane.html)
+* [Satellite](https://stellabms.xyz/sl/table.html)
+* [Stella](https://stellabms.xyz/st/table.html)
+* [@Fez_ike's Beginner table](http://fezikedifficulty.futene.net/list.html)
 * [DP Normal (Delta)](http://dpbmsdelta.web.fc2.com/table/dpdelta.html)
 * [DP Insane](http://dpbmsdelta.web.fc2.com/table/insane.html)
-* [OverJoy](http://cgi.geocities.jp/asahi3jpn/overjoy.php)
+* [DP Satellite](https://stellabms.xyz/dp/table.html)
+* [Overjoy](http://lr2.sakura.ne.jp/overjoy.php)
 * [LN Table](http://flowermaster.web.fc2.com/lrnanido/gla/LN.html)
 * [PMS Normal](http://pmsdifficulty.xxxxxxxx.jp/PMSdifficulty.html)
 * [PMS Insane](http://stellawingroad.web.fc2.com/new/pms.html)
@@ -205,6 +210,7 @@ A tool for "simulating" hand positions / playstyles on controllers.
 
 ## Event Packs
 
+* [Various event packs (100+)](https://package.bms.ms/)
 * [BMS of Fighters 2004](https://archive.org/details/bmsoffighters2004)
 * [BMS of Fighters 2005](https://archive.org/details/thebmsoffighters2005)
 * [BMS of Fighters 2006](https://archive.org/details/thebmsoffighters2006.7z)
@@ -218,6 +224,7 @@ A tool for "simulating" hand positions / playstyles on controllers.
 * [PABAT!2017](https://drive.google.com/file/d/0B_JSxrtTvjwHSVllSlgxSlhTaEk/view)
 * [PABAT!2018](https://drive.google.com/file/d/13Ll_2eRMIb-Gxe7ynlMqznf-vr2DmxIV/view)
 * [PABAT!2019](https://drive.google.com/file/d/1rLfI7gyDOfOfyP5w2fWm1_MD4wgT3d0U/view)
+* [PABAT!2020 (1st reg.)](https://drive.google.com/open?id=1ujhi0I0-JTGiTGK_mnnSLpkqvYszj9IC)
 * [Be Happiness](https://drive.google.com/uc?id=0B4XDKGzQraAWeUdIYXQxMVd1QWs)
 * [Wire Puller IV](http://nekokan.dyndns.info/file/Wire%20Puller%20IV%200223.rar)
 * [WE LUV VGBMS](https://drive.google.com/file/d/0B8i7HfMlOWj6c0taYjZlS0dQTkE)
@@ -234,6 +241,7 @@ A tool for "simulating" hand positions / playstyles on controllers.
 * [Mumeisen13](https://docs.google.com/uc?id=0B37scVeGwGFYbFU1YW50RjBNUnM&export=download)
 * [Mumeisen15](https://drive.google.com/file/d/1p8_4UpilwmoresANu747w07M48X2rTUY/view)
 * [A-1 Climax 6th](https://docs.google.com/uc?id=0B37scVeGwGFYOG4xR0tXY1VFTU0&export=download)
+* [Mutual Faith 3 (Phase 1)](https://www.dropbox.com/s/lb02l0d34apxs2o/Mutual%20Faith%203.zip?dl=1)
 * [BMS Shuin II](https://drive.google.com/open?id=17CiBb24M65WoBd_sHXEI-8Izhpky4hHZ)
 * [Re: Copy & Arrange Only BMS Event 2012.12 ](https://archive.org/details/recopyarrangeonlybmsevent2012.12)
 * [Minikb! 32kb BMS Event](https://archive.org/details/minikb32kbms)
@@ -264,6 +272,7 @@ A tool for "simulating" hand positions / playstyles on controllers.
 * [BMSE - LN modification](https://github.com/dtinth/UCN-BMSE)
 * [iBMSC](https://www.cs.mcgill.ca/~ryang6/iBMSC/)
 * [µBMSC - modified version of iBMSC (bms editor)](https://github.com/zardoru/iBMSC)
+* [pBMSC - modifed version of µBMSC with additional features and fixes](https://github.com/psyk2642/iBMSC)
 * [BMSONE (bmson editor)](https://excln.github.io/bmsone.html)
 
 
@@ -271,13 +280,14 @@ A tool for "simulating" hand positions / playstyles on controllers.
 ## Other Songs and Sabuns
 
 * [BMS uploader Mirror](http://www.ribbit.xyz/bms/mirror/)
-* [OverJoy Songs and Sabuns](https://onedrive.live.com/?id=40805CD20B6241C6%211913&cid=40805CD20B6241C6)
+* [Overjoy Songs and Sabuns](https://onedrive.live.com/?id=40805CD20B6241C6%211913&cid=40805CD20B6241C6)
 * [Pack for almost every 24K BMS in the 24K table](https://drive.google.com/file/d/1HoLuCcZ6gzxjofM8Rw-INQxp0EhE1oFY/view)
 * [24K/48K Tables Pack](https://www.dropbox.com/s/b5iyzzaq5lq4yfk/24keys.7z?dl=0)
 * [BMS Sabun Uploader](http://gnqg.rosx.net/upload/)
 * [Unofficial Stella Package (updated weekly)](https://pastebin.com/9GfkuLWM)
 * [Unofficial Satellite Package (updated weekly)](https://pastebin.com/L2fcu8MR)
 * [24K "Sample Charts" list](https://docs.google.com/spreadsheets/d/1p4ksJmFty2l1zyJUmt24Ka2G89D7NdjFMA06QevTNv8/edit#gid=414122430)
+* [Packages for all the "major" difficulty tables](https://bms.kyouko.moe/)
 
 
 
