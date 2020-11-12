@@ -1,10 +1,9 @@
 # BMS Community Resources
 
 A website with BMS related resources. <br>
-This website is only updated occasionally, please visit the BMS Community Discord server for more up-to-date links.<br>
 Feel free to open issues and pull requests.
 
-
+> Disclaimer: This website is only updated occasionally, please visit the [BMS Community Discord server](#communities) for more up-to-date links.
 
 ## Table of Contents
 
