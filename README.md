@@ -67,6 +67,12 @@ Bemuse is a BMS player which runs completely in the browser.
 ### [QMS](https://misoshiru-cpp.jimdo.com/download/)
 QMS is a new BMS player that's meant to be identical to LR2 in gameplay but without the bugs.
 
+### [Qwilight](https://store.steampowered.com/app/1910130/Qwilight/)
+Qwilight is a new BMS player with support for various keymodes, internet ranking, online multiplayer and chat and much more. It is open-source and supports BMSON.
+
+### [Lunatic Vibes](https://github.com/m8nscape/lunaticvibes)
+Lunatic Vibes is a modern BMS player aiming to be identical to LR2 in gameplay and feel, with support for LR2 skins (SD, HD and FHD) as well as additional features such as online multiplayer. Development is currently halted.
+
 ### [List of BMS Players](https://www40.atwiki.jp/laser_bm/pages/16.html)
 Lists most other BMS players, sorted by year of release. (Japanese)
 
@@ -114,14 +120,11 @@ A tool used to view your clear lamps on several tables. You need to meet some re
 ### [Stella / Satellite Website](https://stellabms.xyz/)
 Stella is an alternative table to the Overjoy table that covers difficulties above ★19. On the other hand, Satellite is an alternative table to the Insane table that covers difficulties ☆11-★19. The website is used to propose and vote for new additions / changes to the Stella / Satellite table.
 
-### [Ribbit's Online BMS Chart Viewer](http://www.ribbit.xyz/bms/score/)
-A website where you can upload and view BMS charts.
+### [Ribbit's Online BMS Chart Viewer](https://ladymade-star.github.io/bms-score-viewer/)
+A website where you can upload and view BMS charts. This is a mirrored version by ladymade-star as the original viewer is not available anymore.
 
-### [BMSeeker Homepage](https://tumblr.ribbit.xyz/post/129562866015/bemusicseeker-%E6%AD%A3%E5%BC%8F%E7%89%88%E3%82%92%E5%85%AC%E9%96%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-v034)
-A very useful program with many features. You can use it to add tables in Lunatic Rave 2, remove duplicates in your BMS library, install sabuns automatically, fix songs with wrong encoding or even use it as a music player.
-
-### [BMSeeker English Download](https://www.dropbox.com/s/nh9e4z2fsxqozpi/BMSeeker-English-setup.exe?dl=0)
-The English version of BMSeeker.
+### [BMSeeker](https://github.com/SayakaIsBaka/BeMusicSeeker-installer)
+A very useful program with many features. You can use it to add tables in Lunatic Rave 2, remove duplicates in your BMS library, install sabuns automatically, fix songs with wrong encoding or even use it as a music player. This link is a mirrored version with some edits (such as the default table list) as the official version is not available anymore.
 
 ### [SimpleBMSTable](https://github.com/NotMichaelChen/SimpleBMSTable)
 A minimal difficulty table manager for LR2 that is designed to be a simple as possible to use.
@@ -184,7 +187,7 @@ A tool for "simulating" hand positions / playstyles on controllers.
 ## Tables
 
 ### Lunatic Rave 2 / beatoraja
-* [Normal 1](http://www.ribbit.xyz/bms/tables/normal.html)
+* [Normal 1](https://darksabun.github.io/table/archive/normal1/)
 * [Insane 1](http://nekokan.dyndns.info/~lobsak/genocide/insane.html)
 * [Normal 2](http://rattoto10.jounin.jp/table.html)
 * [Insane 2](http://rattoto10.jounin.jp/table_insane.html)
@@ -198,7 +201,7 @@ A tool for "simulating" hand positions / playstyles on controllers.
 * [LN Table](http://flowermaster.web.fc2.com/lrnanido/gla/LN.html)
 * [PMS Normal](http://pmsdifficulty.xxxxxxxx.jp/PMSdifficulty.html)
 * [PMS Insane](http://stellawingroad.web.fc2.com/new/pms.html)
-* [Ribbit's List of Tables (used by BMSeeker)](http://www.ribbit.xyz/bms/tables/table_list.html)
+* [DARKSABUN's List of Tables (used by the BMSeeker mirror)](https://darksabun.github.io/table/tablelist.html)
 
 ### beatoraja only
 * [DP Delta](https://tear.moe/table/dpdelta-normal-dans.html)
@@ -263,22 +266,27 @@ A tool for "simulating" hand positions / playstyles on controllers.
 ### Tools
 * [BMS #TOTAL Calculator](https://hitkey.nekokan.dyndns.info/total.htm)
 * [woslicerII](http://cerebralmuddystream.nekokan.dyndns.info/soft/woslicerII.zip)
+* [woslicerII (English)](https://github.com/SayakaIsBaka/woslicerII-english)
 * [BMHelper (Japanese)](https://excln.github.io/bmhelper.html)
 * [BMHelper (English)](https://www.dropbox.com/s/e7196jx73g4huok/bmh_english.zip?dl=0)
+* [BMS Maker 2](https://w.atwiki.jp/coolnaurl/pages/28.html)
+* [BMS Maker 3](https://w.atwiki.jp/coolnaurl/pages/29.html)
 * [mBMplay](https://misty.orz.hm/mbmplay.html)
 * [uBMplay 1.5.2](http://ucn.tokonats.net/archives/ubmplay/ubmplay_152.zip)
 * [BMSE](http://ucn.tokonats.net/software/bmse/)
 * [BMSE - LN modification](https://github.com/dtinth/UCN-BMSE)
 * [iBMSC](https://www.cs.mcgill.ca/~ryang6/iBMSC/)
-* [µBMSC - modified version of iBMSC (bms editor)](https://github.com/zardoru/iBMSC)
-* [pBMSC - modifed version of µBMSC with additional features and fixes](https://github.com/psyk2642/iBMSC)
+* [µBMSC - modified version of iBMSC (bms editor)](https://github.com/zardoru/iBMSC
+* [µBMSC (NS-Kazuki fork) - modified version of µBMSC with additional features](https://github.com/NS-Kazuki/iBMSC)
+* [pBMSC - another modifed version of µBMSC with additional features and fixes catering to charters](https://github.com/psyk2642/iBMSC)
 * [BMSONE (bmson editor)](https://excln.github.io/bmsone.html)
 
 
 
 ## Other Songs and Sabuns
 
-* [BMS uploader Mirror](http://www.ribbit.xyz/bms/mirror/)
+* [BMS uploader Mirror](https://darksabun.github.io/mirror/absolute/)
+* [BMS uploader Mirror (alternative)](https://mirror.lovelyrad.io)
 * [Overjoy Songs and Sabuns](https://onedrive.live.com/?id=40805CD20B6241C6%211913&cid=40805CD20B6241C6)
 * [Pack for almost every 24K BMS in the 24K table](https://drive.google.com/file/d/1HoLuCcZ6gzxjofM8Rw-INQxp0EhE1oFY/view)
 * [24K/48K Tables Pack](https://www.dropbox.com/s/b5iyzzaq5lq4yfk/24keys.7z?dl=0)
