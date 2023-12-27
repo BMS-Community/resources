@@ -292,7 +292,7 @@ A tool for "simulating" hand positions / playstyles on controllers.
 
 ## Miscellaneous
 
-* [BMS EVENT LITE](https://hitkey.nekokan.dyndns.info/bmsevt.htm#ALL "Hitkey Event List")
+* [BMS EVENT LITE ALT](https://bms.ms/bmsevtalt/#ALL "List of BMS events")
 * [BMS Terminology](http://news.keysounds.net/terminology "Definition of terms used when talking about BMS")
 * [LR2 Skin Help](http://right-stick.sub.jp/lr2skinhelp.html "Definition and usage of variables in .csv files")
 * [Be-Music Surge](http://be-music.surge.sh/ "BMS Music Station")
