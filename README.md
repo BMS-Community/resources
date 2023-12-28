@@ -45,10 +45,10 @@ Feel free to open issues and pull requests.
 ## Clients
 
 ### [Lunatic Rave 2 SD](https://drive.google.com/file/d/1HODmutLTJLyjnZ9AuDzC8PkGUnbL6dxD/view)
-LR2 is the standard BMS player, it's over 10 years old and can be buggy. It has by far the largest playerbase. Many skins and tools have been made for LR2. This is the default variant, meaning 640x480.
+LR2 is the standard BMS player. It is over 10 years old and can be buggy. It has by far the largest playerbase. Many skins and tools have been made for LR2. This is the default variant, meaning 640x480.
 
 ### [Lunatic Rave 2 HD](https://drive.google.com/file/d/1GB1I6LSWnOeQbdpqj4doue7wLT15h-vX/view)
-This is the HD variant, meaning 1280x720. You install it by pasting it over your install of the SD version and renaming `config.xml` to `config.xmh`
+This is the HD variant, meaning 1280x720. You install it by pasting it over your install of the SD version and renaming `config.xml` to `config.xmh`.
 
 ### [Lunatic Rave 2 HD with Fast/Slow](https://drive.google.com/file/d/1A7CyWr4Av-ukd0IsVMw1HXAp3XtnWjJC/view)
 This is the same as the other HD version, but with Fast/Slow indicators (fixed LN version).
@@ -84,6 +84,7 @@ Lists most other BMS players, sorted by year of release. (Japanese)
 
 ## Starter Packs
 
+* [BMS Starter Pack 2022](https://trialgabber.github.io/BMS-Starter-Pack-2022/index.html)
 * [GENOSIDE BMS StarterPackage 2018](http://nekokan.dyndns.info/~lobsak/genocide/grade.html)
 * [GENOSIDE BMS StarterPackage](http://nekokan.dyndns.info/~lobsak/genoside/)
 * [Toy Musical Gateway](http://toymusical.net/)
@@ -99,6 +100,12 @@ Lists most other BMS players, sorted by year of release. (Japanese)
 
 
 ## Player Utilities
+
+### [BMS Search](https://bmssearch.net/)
+A website where you can search for BMS songs and get informations about them.
+
+### [BMSeeker](https://github.com/SayakaIsBaka/BeMusicSeeker-installer)
+A very useful program with many features. You can use it to add tables in Lunatic Rave 2, remove duplicates in your BMS library, install sabuns automatically, fix songs with wrong encoding or even use it as a music player. This link is a mirrored version with some edits (such as the default table list) as the official version is not available anymore.
 
 ### [LR2 Internet Ranking (LR2IR)](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi)
 Lunatic Rave 2's Internet Ranking (IR) server. You can add rivals, look for charts and look at rankings for specific charts there.
@@ -133,9 +140,6 @@ Stella is an alternative table to the Overjoy table that covers difficulties abo
 ### [Ribbit's Online BMS Chart Viewer](https://ladymade-star.github.io/bms-score-viewer/)
 A website where you can upload and view BMS charts. This is a mirrored version by ladymade-star as the original viewer is not available anymore.
 
-### [BMSeeker](https://github.com/SayakaIsBaka/BeMusicSeeker-installer)
-A very useful program with many features. You can use it to add tables in Lunatic Rave 2, remove duplicates in your BMS library, install sabuns automatically, fix songs with wrong encoding or even use it as a music player. This link is a mirrored version with some edits (such as the default table list) as the official version is not available anymore.
-
 ### [SimpleBMSTable](https://github.com/NotMichaelChen/SimpleBMSTable)
 A minimal difficulty table manager for LR2 that is designed to be a simple as possible to use.
 
@@ -144,9 +148,6 @@ A tool used to add tables in Lunatic Rave 2. This program is deprecated, so plea
 
 ### [LR2SkinConverter](https://www.dropbox.com/s/mszupq5ri7wivjr/LR2SkinConverter_0.2.0.zip?dl=1)
 A tool used to convert SD skins to HD/FHD skins and vice-versa.
-
-### [BMS Search](https://bmssearch.net/)
-A website where you can search for BMS songs and get informations about them.
 
 ### [IIDX Hand Simulator](http://blog-imgs-50.fc2.com/p/o/t/potofu412/unsi_gene_html5.html)
 A tool for "simulating" hand positions / playstyles on controllers.
@@ -204,6 +205,8 @@ A tool for "simulating" hand positions / playstyles on controllers.
 * [Satellite](https://stellabms.xyz/sl/table.html)
 * [Stella](https://stellabms.xyz/st/table.html)
 * [@Fez_ike's Beginner table](http://fezikedifficulty.futene.net/list.html)
+* [Stardust](https://mqppppp.neocities.org/StardustTable)
+* [Starlight](https://djkuroakari.github.io/starlighttable.html)
 * [DP Normal (Delta)](http://dpbmsdelta.web.fc2.com/table/dpdelta.html)
 * [DP Insane](http://dpbmsdelta.web.fc2.com/table/insane.html)
 * [DP Satellite](https://stellabms.xyz/dp/table.html)
@@ -237,12 +240,7 @@ A tool for "simulating" hand positions / playstyles on controllers.
 * [PABAT!2018](https://drive.google.com/file/d/13Ll_2eRMIb-Gxe7ynlMqznf-vr2DmxIV/view)
 * [PABAT!2019](https://drive.google.com/file/d/1rLfI7gyDOfOfyP5w2fWm1_MD4wgT3d0U/view)
 * [PABAT!2020 (1st reg.)](https://drive.google.com/open?id=1ujhi0I0-JTGiTGK_mnnSLpkqvYszj9IC)
-* [Be Happiness](https://drive.google.com/uc?id=0B4XDKGzQraAWeUdIYXQxMVd1QWs)
-* [Wire Puller IV](http://nekokan.dyndns.info/file/Wire%20Puller%20IV%200223.rar)
-* [WE LUV VGBMS](https://drive.google.com/file/d/0B8i7HfMlOWj6c0taYjZlS0dQTkE)
-* [OLDSKOOL VS FUTURE](https://drive.google.com/file/d/1Ixe58y7jzb09SMJWEnBqHp5ciIpcMB0q)
 * [BMSをいっぱい作る2019](https://drive.google.com/file/d/1LWQJ-3y7N4U2WSlfheRt3D9_FUcVLjAC/view)
-* [A-1 ClimaX 8th](https://drive.google.com/file/d/1tEsAirQlIVQP-E7Rz2qqWVaVCtgR09WP/view)
 * [Wire Puller 1 to Wire Puller 3](https://mega.nz/#F!EpgWgJqa!7OItZfYLQxZ0X8OB19yvNQ!cg5ViLQI)
 * [東方音弾遊戯 1 to 東方音弾遊戯 6](https://mega.nz/#F!EpgWgJqa!7OItZfYLQxZ0X8OB19yvNQ!B5JETKwa)
 * [東方音弾遊戯 7](https://docs.google.com/uc?id=0B97xj9Ow1Tu8XzZZR0RMcUhMd2s&export=download)
@@ -252,7 +250,7 @@ A tool for "simulating" hand positions / playstyles on controllers.
 * [Mumeisen12](https://docs.google.com/uc?id=0B37scVeGwGFYMHJ3TUtoNXd5OWc&export=download)
 * [Mumeisen13](https://docs.google.com/uc?id=0B37scVeGwGFYbFU1YW50RjBNUnM&export=download)
 * [Mumeisen15](https://drive.google.com/file/d/1p8_4UpilwmoresANu747w07M48X2rTUY/view)
-* [A-1 Climax 6th](https://docs.google.com/uc?id=0B37scVeGwGFYOG4xR0tXY1VFTU0&export=download)
+* [Mumeisen17](https://drive.google.com/file/d/1el0RKRa0mnowhZOTfLvqCiX7YLzo_Ohv/view)
 * [Mutual Faith 3 (Phase 1)](https://www.dropbox.com/s/lb02l0d34apxs2o/Mutual%20Faith%203.zip?dl=1)
 * [BMS Shuin II](https://drive.google.com/open?id=17CiBb24M65WoBd_sHXEI-8Izhpky4hHZ)
 * [Re: Copy & Arrange Only BMS Event 2012.12 ](https://archive.org/details/recopyarrangeonlybmsevent2012.12)
@@ -316,7 +314,7 @@ A tool for "simulating" hand positions / playstyles on controllers.
 * [Be-Music Surge](http://be-music.surge.sh/ "BMS Music Station")
 * [BMX2WAV](http://childs.squares.net/program/bmx2wav/ "Program that converts BMS with keysounds to a wav")
 * [BGAEncoder](https://drive.google.com/file/d/1B-EkwLeFJxBMfMP_PQsUqnB_YDu9ImsJ/view "Program that converts BMS with BGA to video")
-* [BGAEncAcv](https://drive.google.com/file/d/16YKTSjW6WJMTvnbfC2UZTbGJlUT97SHj/view "Program that converts BMS with BGA to video")
+* [BGAEncAdv](https://drive.google.com/file/d/16YKTSjW6WJMTvnbfC2UZTbGJlUT97SHj/view "Program that converts BMS with BGA to video")
 * [BtoA003c](https://drive.google.com/file/d/1epBERzLXXY6Q2ZROlL__DP8hI26SmKqv/view "Program that converts BMS with BGA to video")
 * [Sp2Dp](https://drive.google.com/file/d/1xL0UFFAJrba42OdncqC96qh1xHgvN_Bp/view "Program that converts an SP chart to a DP chart")
 * [Bs016](https://drive.google.com/file/d/1gbUL6W6TI4DVPpLX11JqdBxkWt0PJKrq/view "Program that lets you set a BMS as your screensaver")
