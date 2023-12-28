@@ -188,6 +188,7 @@ A tool for "simulating" hand positions / playstyles on controllers.
 * [RESULT SIMPLE FM](https://twitter.com/noriwo765/status/1047494076482777088)
 * [Skins by @mnpyprrn](https://drive.google.com/drive/u/3/folders/1De-sSKu-B2et1h1Bab7XKsaHm-NJBtiD)
 * [DarkTheme](https://github.com/Shimi9999/DarkTheme)
+* [Type-M](https://gall.dcinside.com/board/view/?id=rhythmgame_new1&no=500670)
 
 ### Sound
 * [Crystalline](https://drive.google.com/file/d/1BMeUEmKprfkQPcClMvXppdUjEnlUNrr1/view)
