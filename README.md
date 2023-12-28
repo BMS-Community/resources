@@ -72,7 +72,8 @@ Bemuse is a BMS player which runs completely in the browser.
 QMS is a new BMS player that's meant to be identical to LR2 in gameplay but without the bugs.
 
 ### [Qwilight](https://store.steampowered.com/app/1910130/Qwilight/)
-Qwilight is a new BMS player with support for various keymodes, internet ranking, online multiplayer and chat and much more. It is open-source and supports BMSON.
+Qwilight is a new BMS player with support for various keymodes, internet ranking, online multiplayer and chat and much more. It is open-source and supports BMSON. 
+(Requires Steam to download)
 
 ### [Lunatic Vibes](https://github.com/m8nscape/lunaticvibes)
 Lunatic Vibes is a modern BMS player aiming to be identical to LR2 in gameplay and feel, with support for LR2 skins (SD, HD and FHD) as well as additional features such as online multiplayer. Development is currently halted.
