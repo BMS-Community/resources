@@ -251,7 +251,6 @@ A tool for "simulating" hand positions / playstyles on controllers.
 * [Mumeisen13](https://docs.google.com/uc?id=0B37scVeGwGFYbFU1YW50RjBNUnM&export=download)
 * [Mumeisen15](https://drive.google.com/file/d/1p8_4UpilwmoresANu747w07M48X2rTUY/view)
 * [Mumeisen17](https://drive.google.com/file/d/1el0RKRa0mnowhZOTfLvqCiX7YLzo_Ohv/view)
-* [Mutual Faith 3 (Phase 1)](https://www.dropbox.com/s/lb02l0d34apxs2o/Mutual%20Faith%203.zip?dl=1)
 * [BMS Shuin II](https://drive.google.com/open?id=17CiBb24M65WoBd_sHXEI-8Izhpky4hHZ)
 * [Re: Copy & Arrange Only BMS Event 2012.12 ](https://archive.org/details/recopyarrangeonlybmsevent2012.12)
 * [Minikb! 32kb BMS Event](https://archive.org/details/minikb32kbms)
