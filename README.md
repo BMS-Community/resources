@@ -283,7 +283,7 @@ A tool for "simulating" hand positions / playstyles on controllers.
 * [BMSE](http://ucn.tokonats.net/software/bmse/)
 * [BMSE - LN modification](https://github.com/dtinth/UCN-BMSE)
 * [iBMSC](https://www.cs.mcgill.ca/~ryang6/iBMSC/)
-* [µBMSC - modified version of iBMSC (bms editor)](https://github.com/zardoru/iBMSC
+* [µBMSC - modified version of iBMSC (bms editor)](https://github.com/zardoru/iBMSC)
 * [µBMSC (NS-Kazuki fork) - modified version of µBMSC with additional features](https://github.com/NS-Kazuki/iBMSC)
 * [pBMSC - another modifed version of µBMSC with additional features and fixes catering to charters](https://github.com/psyk2642/iBMSC)
 * [BMSONE (bmson editor)](https://excln.github.io/bmsone.html)
