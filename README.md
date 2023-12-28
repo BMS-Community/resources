@@ -155,6 +155,8 @@ An english translation of the LR2SkinConverter tool.
 ### [IIDX Hand Simulator](http://blog-imgs-50.fc2.com/p/o/t/potofu412/unsi_gene_html5.html)
 A tool for "simulating" hand positions / playstyles on controllers.
 
+### [BmsPreviewAudioGenerator](https://github.com/MikiraSora/BmsPreviewAudioGenerator)
+A tool to generate previews for BMS files that do not provide one, for use with beatoraja. An english usage guide can be found [here](https://github.com/wcko87/beatoraja-english-guide/discussions/33).
 
 
 ## Dan Courses
@@ -290,7 +292,6 @@ A tool for "simulating" hand positions / playstyles on controllers.
 * [µBMSC (NS-Kazuki fork) - modified version of µBMSC with additional features](https://github.com/NS-Kazuki/iBMSC)
 * [pBMSC - another modifed version of µBMSC with additional features and fixes catering to charters](https://github.com/psyk2642/iBMSC)
 * [BMSONE (bmson editor)](https://excln.github.io/bmsone.html)
-
 
 
 ## Other Songs and Sabuns
