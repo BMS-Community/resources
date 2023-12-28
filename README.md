@@ -3,8 +3,6 @@
 A website with BMS related resources. <br>
 Feel free to open issues and pull requests.
 
-> Disclaimer: This website is only updated occasionally, please visit the [BMS Community Discord server](#communities) for more up-to-date links.
-
 ## Table of Contents
 
 * [Communities](#communities)
@@ -64,8 +62,8 @@ beatoraja is a BMS player made in Java. It is open source, cross-platform, and s
 ### [LR2oraja](https://github.com/wcko87/lr2oraja)
 LR2oraja is a beatoraja fork using LR2 timing windows and gauges instead of the default beatoraja ones.
 
-### [LR2oraja ~Endless Dream~](https://github.com/seraxis/lr2oraja-endlessdream)
-LR2oraja ~Endless Dream~ is an LR2oraja fork with additional features such as a rate modifier and a random trainer, as well as faster song and table processing (up to 20x faster compared to stock beatoraja).
+### [LR2oraja \~Endless Dream~](https://github.com/seraxis/lr2oraja-endlessdream)
+LR2oraja \~Endless Dream~ is an LR2oraja fork with additional features such as a rate modifier and a random trainer, as well as faster song and table processing (up to 20x faster compared to stock beatoraja).
 
 ### [Bemuse](https://bemuse.ninja/)
 Bemuse is a BMS player which runs completely in the browser.
@@ -109,7 +107,7 @@ Lunatic Rave 2's Internet Ranking (IR) server. You can add rivals, look for char
 A beatoraja Internet Ranking (IR) server. The most populated beatoraja IR, only available bundled with the compiled releases.
 
 ### [MinIR](https://www.gaftalk.com/minir/)
-A beatoraja Internet Ranking (IR) server. The main unique feature of this beatoraja IR is the Unique ID which can be used to bind the profile with [Stellaway](https://lite.stellabms.xyz/#/stellaway/beatoraja) for the Satellite and Stella difficulty tables.
+A beatoraja Internet Ranking (IR) server. The main unique feature of this beatoraja IR is the Unique ID which can be used to bind the profile with [Stellaway](https://stellabms.xyz/stellaway/st/lr2) for the Satellite and Stella difficulty tables.
 
 ### [CitrusIR](https://citrus-ir.iidx.app/)
 A beatoraja Internet Ranking (IR) server. Another early beatoraja IR implementation. No specific features when set as the main IR.
