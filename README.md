@@ -283,7 +283,7 @@ A tool for "simulating" hand positions / playstyles on controllers.
 * [BMS Maker 3](https://w.atwiki.jp/coolnaurl/pages/29.html)
 * [mBMplay](https://misty.orz.hm/mbmplay.html)
 * [uBMplay 1.5.2](http://ucn.tokonats.net/archives/ubmplay/ubmplay_152.zip)
-* [BMSE](http://ucn.tokonats.net/software/bmse/)
+* [BMSE](https://github.com/Nekokan/BMSE)
 * [BMSE - LN modification](https://github.com/dtinth/UCN-BMSE)
 * [iBMSC](https://www.cs.mcgill.ca/~ryang6/iBMSC/)
 * [µBMSC - modified version of iBMSC (bms editor)](https://github.com/zardoru/iBMSC)
