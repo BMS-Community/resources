@@ -61,6 +61,12 @@ This is the Full HD variant, meaning 1920x1080. You install it by using the patc
 ### [beatoraja](https://mocha-repository.info/download.php)
 beatoraja is a BMS player made in Java. It is open source, cross-platform, and supports BMSON. There are multiple internet ranking servers for beatoraja.
 
+### [LR2oraja](https://github.com/wcko87/lr2oraja)
+LR2oraja is a beatoraja fork using LR2 timing windows and gauges instead of the default beatoraja ones.
+
+### [LR2oraja ~Endless Dream~](https://github.com/seraxis/lr2oraja-endlessdream)
+LR2oraja ~Endless Dream~ is an LR2oraja fork with additional features such as a rate modifier and a random trainer, as well as faster song and table processing (up to 20x faster compared to stock beatoraja).
+
 ### [Bemuse](https://bemuse.ninja/)
 Bemuse is a BMS player which runs completely in the browser.
 
@@ -107,6 +113,12 @@ A beatoraja Internet Ranking (IR) server. The main unique feature of this beator
 
 ### [CitrusIR](https://citrus-ir.iidx.app/)
 A beatoraja Internet Ranking (IR) server. Another early beatoraja IR implementation. No specific features when set as the main IR.
+
+### [Bokutachi](https://bokutachi.xyz)
+A modern score tracker and Internet Ranking (IR) server. Supports beatoraja, LR2oraja (including Endless Dream) and LR2.
+
+### [Cinnamon](https://cinnamon.link)
+A website containing many BMS-related tools and services including a score tracker and lamp viewer, an Internet Ranking (IR) server for beatoraja and LR2oraja and a table creator, among others.
 
 ### [Notepara](http://www.notepara.com/)
 A tool that lets you view your lamps across different tables. Only compatible with LR2IR.
