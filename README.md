@@ -68,9 +68,6 @@ LR2oraja \~Endless Dream~ is an LR2oraja fork with additional features such as a
 ### [Bemuse](https://bemuse.ninja/)
 Bemuse is a BMS player which runs completely in the browser.
 
-### [QMS](https://misoshiru-cpp.jimdo.com/download/)
-QMS is a new BMS player that's meant to be identical to LR2 in gameplay but without the bugs.
-
 ### [Qwilight](https://store.steampowered.com/app/1910130/Qwilight/)
 Qwilight is a new BMS player with support for various keymodes, internet ranking, online multiplayer and chat and much more. It is open-source and supports BMSON.
 
