@@ -53,8 +53,8 @@ This is the HD variant, meaning 1280x720. You install it by pasting it over your
 ### [Lunatic Rave 2 HD with Fast/Slow](https://drive.google.com/file/d/1A7CyWr4Av-ukd0IsVMw1HXAp3XtnWjJC/view)
 This is the same as the other HD version, but with Fast/Slow indicators (fixed LN version).
 
-### [Lunatic Rave 2 FHD](https://drive.google.com/file/d/12wDpQu-z65e1hiXYy4tt8Ep76_QscXPI/view)
-This is the Full HD variant, meaning 1920x1080. You install it by using the patch executable on your install of the SD version. No need to rename your config file.
+### [Lunatic Rave 2 FHD](https://bms-community.github.io/resources/tools/LR2FHD_patcher.exe)
+This is the Full HD variant, meaning 1920x1080. You install it by using the patch executable on your install of the SD version. No need to rename your config file. Please note that at the moment, only one LR2 skin natively supports FHD (LITONE).
 
 ### [beatoraja](https://mocha-repository.info/download.php)
 beatoraja is a BMS player made in Java. It is open source, cross-platform, and supports BMSON. There are multiple internet ranking servers for beatoraja.
@@ -148,6 +148,9 @@ A tool used to add tables in Lunatic Rave 2. This program is deprecated, so plea
 
 ### [LR2SkinConverter](https://www.dropbox.com/s/mszupq5ri7wivjr/LR2SkinConverter_0.2.0.zip?dl=1)
 A tool used to convert SD skins to HD/FHD skins and vice-versa.
+
+### [LR2SkinConverter (English)](https://bms-community.github.io/resources/tools/skin_converter_EN.exe)
+An english translation of the LR2SkinConverter tool.
 
 ### [IIDX Hand Simulator](http://blog-imgs-50.fc2.com/p/o/t/potofu412/unsi_gene_html5.html)
 A tool for "simulating" hand positions / playstyles on controllers.
