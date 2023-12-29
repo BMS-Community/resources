@@ -120,7 +120,7 @@ A beatoraja Internet Ranking (IR) server. The main unique feature of this beator
 A beatoraja Internet Ranking (IR) server. Another early beatoraja IR implementation. No specific features when set as the main IR.
 
 ### [Bokutachi](https://bokutachi.xyz)
-A modern score tracker and Internet Ranking (IR) server. Supports beatoraja, LR2oraja (including Endless Dream) and LR2.
+A modern score tracker and Internet Ranking (IR) server. Supports beatoraja, LR2oraja (including Endless Dream) and LR2 (Unofficially).
 
 ### [Cinnamon](https://cinnamon.link)
 A website containing many BMS-related tools and services including a score tracker and lamp viewer, an Internet Ranking (IR) server for beatoraja and LR2oraja and a table creator, among others.
