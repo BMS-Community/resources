@@ -117,9 +117,6 @@ A beatoraja Internet Ranking (IR) server. The most populated beatoraja IR, only 
 ### [MinIR](https://www.gaftalk.com/minir/)
 A beatoraja Internet Ranking (IR) server. The main unique feature of this beatoraja IR is the Unique ID which can be used to bind the profile with [Stellaway](https://stellabms.xyz/stellaway/st/lr2) for the Satellite and Stella difficulty tables.
 
-### [CitrusIR](https://citrus-ir.iidx.app/)
-A beatoraja Internet Ranking (IR) server. Another early beatoraja IR implementation. No specific features when set as the main IR.
-
 ### [Bokutachi](https://bokutachi.xyz)
 A modern score tracker and Internet Ranking (IR) server. Supports beatoraja, LR2oraja (including Endless Dream) and LR2.
 
