@@ -180,6 +180,9 @@ A tool to generate previews for BMS files that do not provide one, for use with 
 * [Remi-S Snow Wind](https://drive.google.com/file/d/1WblfOZpND217Ql8SHw9PxmUCRxW1np1x/view)
 * [Remi-S (various editions)](https://drive.google.com/file/d/17N77oL_2XrTBKUa6Mx3xh3bFEjGlfmsh/view)
 * [RED BELT/OVERACTiVE](http://right-stick.sub.jp/rb.html)
+* [OVERACTiVE DX3](https://overactive.nobody.jp/bms_skin/dx3/index.html)
+* [Fivemania: The Return (5/10k skin)](https://overactive.nobody.jp/bms_skin/fivemania_tr/index.html)
+* [LightPop (PMS skin)](https://overactive.nobody.jp/bms_skin/lightpop/index.html)
 
 ### beatoraja
 * [Brook](https://drive.google.com/file/d/1ei0w7_gMkZ7TU9q79WkQ5RPnTIbhWbOk/view)
@@ -191,6 +194,7 @@ A tool to generate previews for BMS files that do not provide one, for use with 
 * [RESULT SIMPLE FM](https://twitter.com/noriwo765/status/1047494076482777088)
 * [Skins by @mnpyprrn](https://drive.google.com/drive/u/3/folders/1De-sSKu-B2et1h1Bab7XKsaHm-NJBtiD)
 * [DarkTheme](https://github.com/Shimi9999/DarkTheme)
+* [BeatPop (PMS skin for beatoraja)](https://x.com/azuruff/status/1311461871308869632?s=61)
 * [GroundbreakinG Skin](https://github.com/gdbg-dev/GdbG_Skin)
 
 ### Sound
