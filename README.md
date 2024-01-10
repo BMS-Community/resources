@@ -85,6 +85,7 @@ Lists most other BMS players, sorted by year of release. (Japanese)
 ## Starter Packs
 
 * [BMS Starter Pack 2022](https://trialgabber.github.io/BMS-Starter-Pack-2022/index.html)
+* [GroundbreakinG BMS Package](https://gdbg.tv/package/2022/)
 * [GENOSIDE BMS StarterPackage 2018](http://nekokan.dyndns.info/~lobsak/genocide/grade.html)
 * [GENOSIDE BMS StarterPackage](http://nekokan.dyndns.info/~lobsak/genoside/)
 * [Toy Musical Gateway](http://toymusical.net/)
