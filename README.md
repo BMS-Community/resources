@@ -235,6 +235,7 @@ A tool to generate previews for BMS files that do not provide one, for use with 
 ## Event Packs
 
 * [Various event packs (100+)](https://package.bms.ms/)
+* [\[db\]](https://diverse.jp/dbhtml/index.html)
 * [BMS of Fighters 2004](https://archive.org/details/bmsoffighters2004)
 * [BMS of Fighters 2005](https://archive.org/details/thebmsoffighters2005)
 * [BMS of Fighters 2006](https://archive.org/details/thebmsoffighters2006.7z)
