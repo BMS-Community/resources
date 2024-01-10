@@ -85,6 +85,7 @@ Lists most other BMS players, sorted by year of release. (Japanese)
 ## Starter Packs
 
 * [BMS Starter Pack 2022](https://trialgabber.github.io/BMS-Starter-Pack-2022/index.html)
+* [GroundbreakinG BMS Package](https://gdbg.tv/package/2022/)
 * [GENOSIDE BMS StarterPackage 2018](http://nekokan.dyndns.info/~lobsak/genocide/grade.html)
 * [GENOSIDE BMS StarterPackage](http://nekokan.dyndns.info/~lobsak/genoside/)
 * [Toy Musical Gateway](http://toymusical.net/)
@@ -116,11 +117,8 @@ A beatoraja Internet Ranking (IR) server. The most populated beatoraja IR, only 
 ### [MinIR](https://www.gaftalk.com/minir/)
 A beatoraja Internet Ranking (IR) server. The main unique feature of this beatoraja IR is the Unique ID which can be used to bind the profile with [Stellaway](https://stellabms.xyz/stellaway/st/lr2) for the Satellite and Stella difficulty tables.
 
-### [CitrusIR](https://citrus-ir.iidx.app/)
-A beatoraja Internet Ranking (IR) server. Another early beatoraja IR implementation. No specific features when set as the main IR.
-
 ### [Bokutachi](https://bokutachi.xyz)
-A modern score tracker and Internet Ranking (IR) server. Supports beatoraja, LR2oraja (including Endless Dream) and LR2.
+A modern score tracker and Internet Ranking (IR) server. Supports beatoraja (PMS only), LR2oraja (including Endless Dream) and LR2.
 
 ### [Cinnamon](https://cinnamon.link)
 A website containing many BMS-related tools and services including a score tracker and lamp viewer, an Internet Ranking (IR) server for beatoraja and LR2oraja and a table creator, among others.
@@ -197,6 +195,7 @@ A tool to generate previews for BMS files that do not provide one, for use with 
 * [Skins by @mnpyprrn](https://drive.google.com/drive/u/3/folders/1De-sSKu-B2et1h1Bab7XKsaHm-NJBtiD)
 * [DarkTheme](https://github.com/Shimi9999/DarkTheme)
 * [BeatPop (PMS skin for beatoraja)](https://x.com/azuruff/status/1311461871308869632?s=61)
+* [GroundbreakinG Skin](https://github.com/gdbg-dev/GdbG_Skin)
 
 ### Sound
 * [Crystalline](https://drive.google.com/file/d/1BMeUEmKprfkQPcClMvXppdUjEnlUNrr1/view)
