@@ -193,6 +193,7 @@ A tool to generate previews for BMS files that do not provide one, for use with 
 * [RESULT SIMPLE FM](https://twitter.com/noriwo765/status/1047494076482777088)
 * [Skins by @mnpyprrn](https://drive.google.com/drive/u/3/folders/1De-sSKu-B2et1h1Bab7XKsaHm-NJBtiD)
 * [DarkTheme](https://github.com/Shimi9999/DarkTheme)
+* [GroundbreakinG Skin](https://github.com/gdbg-dev/GdbG_Skin)
 
 ### Sound
 * [Crystalline](https://drive.google.com/file/d/1BMeUEmKprfkQPcClMvXppdUjEnlUNrr1/view)
