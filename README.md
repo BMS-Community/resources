@@ -118,7 +118,7 @@ A beatoraja Internet Ranking (IR) server. The most populated beatoraja IR, only 
 A beatoraja Internet Ranking (IR) server. The main unique feature of this beatoraja IR is the Unique ID which can be used to bind the profile with [Stellaway](https://stellabms.xyz/stellaway/st/lr2) for the Satellite and Stella difficulty tables.
 
 ### [Bokutachi](https://bokutachi.xyz)
-A modern score tracker and Internet Ranking (IR) server. Supports beatoraja, LR2oraja (including Endless Dream) and LR2.
+A modern score tracker and Internet Ranking (IR) server. Supports beatoraja (For PMS only), LR2oraja (including Endless Dream) and LR2.
 
 ### [Cinnamon](https://cinnamon.link)
 A website containing many BMS-related tools and services including a score tracker and lamp viewer, an Internet Ranking (IR) server for beatoraja and LR2oraja and a table creator, among others.
