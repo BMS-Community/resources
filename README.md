@@ -296,6 +296,7 @@ A tool to generate previews for BMS files that do not provide one, for use with 
 * [µBMSC (NS-Kazuki fork) - modified version of µBMSC with additional features](https://github.com/NS-Kazuki/iBMSC)
 * [pBMSC - another modifed version of µBMSC with additional features and fixes catering to charters](https://github.com/psyk2642/iBMSC)
 * [BMSONE (bmson editor)](https://excln.github.io/bmsone.html)
+* [PMS Mistake Checker](http://dozen13092.web.fc2.com)
 
 
 ## Other Songs and Sabuns
