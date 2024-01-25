@@ -23,7 +23,7 @@ Feel free to open issues and pull requests.
 ## Communities
 
 * [BMS Community](https://discord.gg/Q4vKF8T)
-* [BMS Server JAPAN](https://discord.gg/DvxHfEa)
+* [BMS Server JAPAN](https://discord.gg/rSRVKYZ)
 * [K-BMS](https://k-bms.com/)
 * [r/lunaticrave2](https://www.reddit.com/r/lunaticrave2/)
 
