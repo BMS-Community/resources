@@ -186,7 +186,7 @@ A tool to generate previews for BMS files that do not provide one, for use with 
 
 ### beatoraja
 * [Brook](https://drive.google.com/file/d/1ei0w7_gMkZ7TU9q79WkQ5RPnTIbhWbOk/view)
-* [LITONE](http://desout2.freeiz.com/)
+* [LITONE (Only LITONE 5 available for free, the other skins need subscription)](https://desout2.tk)
 * [24K keyboard-like skin for beatoraja](https://drive.google.com/file/d/1z-xZkJjDVThMYSAz_5_TY-Qi_fqJ5IgV/view)
 * [50K keyboard-like skin for beatoraja](https://drive.google.com/file/d/1uT_xAev-nvNid3Cxk3YKicvOByWi2DkO/view)
 * [Remi-oraja](https://drive.google.com/file/d/1otmcKlRZhRtcE8LgwUTJVhjbBtbqXV6K/view)
