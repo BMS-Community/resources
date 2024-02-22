@@ -284,6 +284,7 @@ A tool to generate previews for BMS files that do not provide one, for use with 
 * [BMS #TOTAL Calculator](https://hitkey.nekokan.dyndns.info/total.htm)
 * [woslicerII](http://cerebralmuddystream.nekokan.dyndns.info/soft/woslicerII.zip)
 * [woslicerII (English)](https://github.com/SayakaIsBaka/woslicerII-english)
+* [Mid2BMS] (https://mid2bms.net)
 * [BMHelper (Japanese)](https://excln.github.io/bmhelper.html)
 * [BMHelper (English)](https://www.dropbox.com/s/e7196jx73g4huok/bmh_english.zip?dl=0)
 * [BMS Maker 2](https://w.atwiki.jp/coolnaurl/pages/28.html)
