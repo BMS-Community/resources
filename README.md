@@ -88,8 +88,6 @@ Lists most other BMS players, sorted by year of release. (Japanese)
 * [GroundbreakinG BMS Package](https://gdbg.tv/package/2022/)
 * [GENOSIDE BMS StarterPackage 2018](http://nekokan.dyndns.info/~lobsak/genocide/grade.html)
 * [GENOSIDE BMS StarterPackage](http://nekokan.dyndns.info/~lobsak/genoside/)
-* [Toy Musical Gateway](http://toymusical.net/)
-* [Toy Musical 3](http://nekokan.dyndns.info/~tm3/download.html)
 * [LUMINOUS](http://l-bms.space/1st/)
 * [Pure White](http://l-bms.space/2nd/)
 * [BMS Starter Pack 2006-2009](http://www.yamajet.com/bmssp/guide.html)
@@ -97,7 +95,8 @@ Lists most other BMS players, sorted by year of release. (Japanese)
 * [Korea BMS Starter Pack Polaris](https://k-bms.com/starter/polaris.jsp)
 * [Korea BMS Starter Pack Primrose](https://k-bms.com/primrose/)
 * [Lunatic Rave Endless Music](http://www.is-m.jp/lrem/download.html)
-
+* [Toy Musical 1 & 2 (PMS Starter Packs)](https://tm2.toymusical.net/download.html)
+  
 
 
 ## Player Utilities
