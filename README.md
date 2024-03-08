@@ -337,5 +337,6 @@ A tool to merge and rename duplicate BMS songs.
 * [Sp2Dp](https://drive.google.com/file/d/1xL0UFFAJrba42OdncqC96qh1xHgvN_Bp/view) - Program that converts an SP chart to a DP chart
 * [Bs016](https://drive.google.com/file/d/1gbUL6W6TI4DVPpLX11JqdBxkWt0PJKrq/view) - Program that lets you set a BMS as your screensaver
 * [bmsj](https://drive.google.com/file/d/1XoIT8a4cmGDQGEbVZRVRN_g6Kaf0bFit/view) - Program that analyzes BMS to predict the difficulty
+* [LR2Flac](https://github.com/SayakaIsBaka/LR2Flac) - Patch allowing LR2 to add FLAC as another fallback extension alongside WAV and OGG
 * [LR2 Timing Window](https://hitkey.nekokan.dyndns.info/diary1501.php#D150119) - Article about Lunatic Rave 2's timing windows
 * [10K2S Difficulty Table Discussion Spreadsheet](https://docs.google.com/spreadsheets/d/1MrtyIe3F3U7qQl2w1TS-4REJQ2pAFVx-U3QV14MEBvg/edit) - Google Sheets document that people use to discuss the 10K2S table
