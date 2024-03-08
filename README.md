@@ -282,6 +282,7 @@ A tool to merge and rename duplicate BMS songs.
 * [BMS Charting 101](https://docs.google.com/document/d/1uWpmPIpV7q2JIvObaJJ0Q6kUOA4oBav7PvWlEd_uBzQ)
 * [LR2 Skinning Guides by THULIUM](https://onedrive.live.com/?cid=6E64154AF7641296&id=6E64154AF7641296!105)
 * [FL Studio mid2bms guide by BilliumMoto](https://docs.google.com/document/d/1D_JdPtxNVJMQz-U9nHlZTtzsEaMeHnSBSmqeRfjLaZg/view)
+* [BMS Production Checklist](https://wcko87.github.io/bms-checklist/)
 
 ### Tools
 * [BMS #TOTAL Calculator](https://hitkey.nekokan.dyndns.info/total.htm)
@@ -302,7 +303,8 @@ A tool to merge and rename duplicate BMS songs.
 * [µBMSC (NS-Kazuki fork) - modified version of µBMSC with additional features](https://github.com/NS-Kazuki/iBMSC)
 * [pBMSC - another modifed version of µBMSC with additional features and fixes catering to charters](https://github.com/psyk2642/iBMSC)
 * [BMSONE (bmson editor)](https://excln.github.io/bmsone.html)
-* [FBMSONplay (bmson preview player, requires uBMplay)](https://bmson.nekokan.dyndns.info/documents/fbmsonplay.zip)
+* [BMS Auditor](https://sayakaisbaka.github.io/bms-auditor)
+* [fbmsonplay (bmson preview player, requires uBMplay)](https://bmson.nekokan.dyndns.info/documents/fbmsonplay.zip)
 * [PMS Mistake Checker](http://dozen13092.web.fc2.com)
 
 
