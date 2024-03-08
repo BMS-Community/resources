@@ -156,6 +156,9 @@ A tool for "simulating" hand positions / playstyles on controllers.
 ### [BmsPreviewAudioGenerator](https://github.com/MikiraSora/BmsPreviewAudioGenerator)
 A tool to generate previews for BMS files that do not provide one, for use with beatoraja. An english usage guide can be found [here](https://github.com/wcko87/beatoraja-english-guide/discussions/33).
 
+### [BMSOrganizer](https://gitlab.com/Chazoshtare/bmsorganizer)
+A tool to merge and rename duplicate BMS songs.
+
 
 ## Dan Courses
 
@@ -186,7 +189,7 @@ A tool to generate previews for BMS files that do not provide one, for use with 
 
 ### beatoraja
 * [Brook](https://drive.google.com/file/d/1ei0w7_gMkZ7TU9q79WkQ5RPnTIbhWbOk/view)
-* [LITONE](http://desout2.freeiz.com/)
+* [LITONE](https://desout2.tk)
 * [24K keyboard-like skin for beatoraja](https://drive.google.com/file/d/1z-xZkJjDVThMYSAz_5_TY-Qi_fqJ5IgV/view)
 * [50K keyboard-like skin for beatoraja](https://drive.google.com/file/d/1uT_xAev-nvNid3Cxk3YKicvOByWi2DkO/view)
 * [Remi-oraja](https://drive.google.com/file/d/1otmcKlRZhRtcE8LgwUTJVhjbBtbqXV6K/view)
@@ -284,7 +287,8 @@ A tool to generate previews for BMS files that do not provide one, for use with 
 * [BMS #TOTAL Calculator](https://hitkey.nekokan.dyndns.info/total.htm)
 * [woslicerII](http://cerebralmuddystream.nekokan.dyndns.info/soft/woslicerII.zip)
 * [woslicerII (English)](https://github.com/SayakaIsBaka/woslicerII-english)
-* [woslicer III](https://cerebralmuddystream.nekokan.dyndns.info/soft/woslicerIII.zip)
+* [woslicerIII](https://cerebralmuddystream.nekokan.dyndns.info/soft/woslicerIII.zip)
+* [Mid2BMS](https://mid2bms.net)
 * [BMHelper (Japanese)](https://excln.github.io/bmhelper.html)
 * [BMHelper (English)](https://www.dropbox.com/s/e7196jx73g4huok/bmh_english.zip?dl=0)
 * [BMS Maker 2](https://w.atwiki.jp/coolnaurl/pages/28.html)
@@ -298,6 +302,7 @@ A tool to generate previews for BMS files that do not provide one, for use with 
 * [µBMSC (NS-Kazuki fork) - modified version of µBMSC with additional features](https://github.com/NS-Kazuki/iBMSC)
 * [pBMSC - another modifed version of µBMSC with additional features and fixes catering to charters](https://github.com/psyk2642/iBMSC)
 * [BMSONE (bmson editor)](https://excln.github.io/bmsone.html)
+* [FBMSONplay (bmson preview player, requires uBMplay)](https://bmson.nekokan.dyndns.info/documents/fbmsonplay.zip)
 * [PMS Mistake Checker](http://dozen13092.web.fc2.com)
 
 
