@@ -156,6 +156,9 @@ A tool for "simulating" hand positions / playstyles on controllers.
 ### [BmsPreviewAudioGenerator](https://github.com/MikiraSora/BmsPreviewAudioGenerator)
 A tool to generate previews for BMS files that do not provide one, for use with beatoraja. An english usage guide can be found [here](https://github.com/wcko87/beatoraja-english-guide/discussions/33).
 
+### [BMSOrganizer](https://gitlab.com/Chazoshtare/bmsorganizer)
+A tool to merge and rename duplicate BMS songs.
+
 
 ## Dan Courses
 
