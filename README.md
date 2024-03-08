@@ -156,6 +156,9 @@ A tool for "simulating" hand positions / playstyles on controllers.
 ### [BmsPreviewAudioGenerator](https://github.com/MikiraSora/BmsPreviewAudioGenerator)
 A tool to generate previews for BMS files that do not provide one, for use with beatoraja. An english usage guide can be found [here](https://github.com/wcko87/beatoraja-english-guide/discussions/33).
 
+### [BMSOrganizer](https://gitlab.com/Chazoshtare/bmsorganizer)
+A tool to merge and rename duplicate BMS songs.
+
 
 ## Dan Courses
 
@@ -186,7 +189,7 @@ A tool to generate previews for BMS files that do not provide one, for use with 
 
 ### beatoraja
 * [Brook](https://drive.google.com/file/d/1ei0w7_gMkZ7TU9q79WkQ5RPnTIbhWbOk/view)
-* [LITONE](http://desout2.freeiz.com/)
+* [LITONE](https://desout2.tk)
 * [24K keyboard-like skin for beatoraja](https://drive.google.com/file/d/1z-xZkJjDVThMYSAz_5_TY-Qi_fqJ5IgV/view)
 * [50K keyboard-like skin for beatoraja](https://drive.google.com/file/d/1uT_xAev-nvNid3Cxk3YKicvOByWi2DkO/view)
 * [Remi-oraja](https://drive.google.com/file/d/1otmcKlRZhRtcE8LgwUTJVhjbBtbqXV6K/view)
@@ -279,17 +282,21 @@ A tool to generate previews for BMS files that do not provide one, for use with 
 * [BMS Charting 101](https://docs.google.com/document/d/1uWpmPIpV7q2JIvObaJJ0Q6kUOA4oBav7PvWlEd_uBzQ)
 * [LR2 Skinning Guides by THULIUM](https://onedrive.live.com/?cid=6E64154AF7641296&id=6E64154AF7641296!105)
 * [FL Studio mid2bms guide by BilliumMoto](https://docs.google.com/document/d/1D_JdPtxNVJMQz-U9nHlZTtzsEaMeHnSBSmqeRfjLaZg/view)
+* [BMS Production Checklist](https://wcko87.github.io/bms-checklist/)
 
 ### Tools
 * [BMS #TOTAL Calculator](https://hitkey.nekokan.dyndns.info/total.htm)
 * [woslicerII](http://cerebralmuddystream.nekokan.dyndns.info/soft/woslicerII.zip)
 * [woslicerII (English)](https://github.com/SayakaIsBaka/woslicerII-english)
+* [woslicerIII](https://cerebralmuddystream.nekokan.dyndns.info/soft/woslicerIII.zip)
+* [Mid2BMS](https://mid2bms.net)
 * [BMHelper (Japanese)](https://excln.github.io/bmhelper.html)
 * [BMHelper (English)](https://www.dropbox.com/s/e7196jx73g4huok/bmh_english.zip?dl=0)
 * [BMS Maker 2](https://w.atwiki.jp/coolnaurl/pages/28.html)
 * [BMS Maker 3](https://w.atwiki.jp/coolnaurl/pages/29.html)
 * [mBMplay](https://misty.orz.hm/mbmplay.html)
 * [uBMplay 1.5.2](http://ucn.tokonats.net/archives/ubmplay/ubmplay_152.zip)
+* [PMSee-V](https://sakukoba.ninja-x.jp/ponila/)
 * [BMSE](https://github.com/Nekokan/BMSE)
 * [iBMSC](https://www.cs.mcgill.ca/~ryang6/iBMSC/)
 * [µBMSC - modified version of iBMSC (bms editor)](https://github.com/zardoru/iBMSC)
@@ -297,6 +304,7 @@ A tool to generate previews for BMS files that do not provide one, for use with 
 * [pBMSC - another modifed version of µBMSC with additional features and fixes catering to charters](https://github.com/psyk2642/iBMSC)
 * [BMSONE (bmson editor)](https://excln.github.io/bmsone.html)
 * [BMS Auditor](https://sayakaisbaka.github.io/bms-auditor)
+* [fbmsonplay (bmson preview player, requires uBMplay)](https://bmson.nekokan.dyndns.info/documents/fbmsonplay.zip)
 * [PMS Mistake Checker](http://dozen13092.web.fc2.com)
 
 
