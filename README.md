@@ -159,6 +159,11 @@ A tool to generate previews for BMS files that do not provide one, for use with 
 ### [BMSOrganizer](https://gitlab.com/Chazoshtare/bmsorganizer)
 A tool to merge and rename duplicate BMS songs.
 
+### [Intro to Insane BMS](https://iidx.org/advanced/bms_intro)
+An introduction on Insane BMS.
+
+### [Information on the differences between Timing Windows and Green Number](https://iidx.org/misc/iidx_lr2_beatoraja_diff)
+Here you have the informations on the timing windows and Green Number, with information on how to calculate Green Number for those using Beatoraja, as well as a website to calculate green number for those using Lunatic Rave 2.
 
 ## Dan Courses
 
@@ -227,6 +232,8 @@ A tool to merge and rename duplicate BMS songs.
 * [PMS Normal](http://pmsdifficulty.xxxxxxxx.jp/PMSdifficulty.html)
 * [PMS Insane](http://stellawingroad.web.fc2.com/new/pms.html)
 * [DARKSABUN's List of Tables (used by the BMSeeker mirror)](https://darksabun.github.io/table/tablelist.html)
+* [Ereter's DPBMS Easy Clear Table](https://bmstable.iidx.org/ereter-dpbms-easy-clear)
+* [Ereter's DPBMS Hard Clear Table](https://bmstable.iidx.org/ereter-dpbms-hard-clear)
 
 ### beatoraja only
 * [DP Delta](https://tear.moe/table/dpdelta-normal-dans.html)
