@@ -190,7 +190,6 @@ A tool to merge and rename duplicate BMS songs.
 ### beatoraja
 * [Brook](https://drive.google.com/file/d/1ei0w7_gMkZ7TU9q79WkQ5RPnTIbhWbOk/view)
 * [LITONE](https://desout2.tk)
-* [24K keyboard-like skin for beatoraja](https://drive.google.com/file/d/1z-xZkJjDVThMYSAz_5_TY-Qi_fqJ5IgV/view)
 * [50K keyboard-like skin for beatoraja](https://drive.google.com/file/d/1uT_xAev-nvNid3Cxk3YKicvOByWi2DkO/view)
 * [Remi-oraja](https://drive.google.com/file/d/1otmcKlRZhRtcE8LgwUTJVhjbBtbqXV6K/view)
 * [Skins on http://dpbmschart.web.fc2.com](http://dpbmschart.web.fc2.com/warehouse.html)
