@@ -280,6 +280,7 @@ A tool to merge and rename duplicate BMS songs.
 * [BMS Creation Notes #3: The Basics of Charting](https://www.youtube.com/watch?v=33tkdoRkA_s)
 * [Legacy BGA How-To](https://docs.google.com/document/d/1jL9f5CaH3Rm6bNa9ijUIDBqfpyDYvq4mIK_AeyUJ3mI)
 * [BMS Charting 101](https://docs.google.com/document/d/1uWpmPIpV7q2JIvObaJJ0Q6kUOA4oBav7PvWlEd_uBzQ)
+* [14K BMS Charting guide by Sobrem](https://x.com/SobremMusic/status/1359174215262380033)
 * [LR2 Skinning Guides by THULIUM](https://onedrive.live.com/?cid=6E64154AF7641296&id=6E64154AF7641296!105)
 * [FL Studio mid2bms guide by BilliumMoto](https://docs.google.com/document/d/1D_JdPtxNVJMQz-U9nHlZTtzsEaMeHnSBSmqeRfjLaZg/view)
 * [BMS Production Checklist](https://wcko87.github.io/bms-checklist/)
