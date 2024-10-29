@@ -77,6 +77,9 @@ Qwilight is a new BMS player with support for various keymodes, internet ranking
 ### [Lunatic Vibes](https://github.com/m8nscape/lunaticvibes)
 Lunatic Vibes is a modern BMS player aiming to be identical to LR2 in gameplay and feel, with support for LR2 skins (SD, HD and FHD) as well as additional features such as online multiplayer. Development is currently halted.
 
+### [Lunatic Vibes F](https://github.com/chown2/lunaticvibesf)
+A fork of Lunatic Vibes, currently in active development.
+
 ### [List of BMS Players](https://www40.atwiki.jp/laser_bm/pages/16.html)
 Lists most other BMS players, sorted by year of release. (Japanese)
 
@@ -171,7 +174,7 @@ A tool to merge and rename duplicate BMS songs.
 ## Skins
 
 ### Lunatic Rave 2
-* [WMIX](https://onedrive.live.com/?cid=E92E2372413C5A12&id=E92E2372413C5A12%21387&authkey=%21AJDSk4VrErhklTk)
+* [WMIX](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaEphUEVGeUl5N3Bnd0dRMF8wRmxfU0NiYloxP2U9NGtPYWxR&id=E92E2372413C5A12%21387&cid=E92E2372413C5A12)
 * [Endless Circulation Self Evolution](https://drive.google.com/file/d/1X153J9iyd7Iq6lryP5p1As97jYfMPwty/view)
 * [Seraphic Ver.F+](https://drive.google.com/file/d/1cL-HQkjDLfzFRccKnhRcjMmcyS_jjbHu/view)
 * [KCOOL 1.72](https://drive.google.com/file/d/1BF1St-CED-mmKERuEaCYs71wR0dLd0JD/view)
